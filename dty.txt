@@ -1,0 +1,8 @@
+台湾News98,http://cast.news98.com.tw:8000/news98
+HitFM88.7,http://satellitepull.cnr.cn/live/wxhitfm/playlist.m3u8
+天津新闻广播,http://satellitepull.cnr.cn/live/wxtjxwgb/playlist.m3u8
+飞碟联播网,http://cast.uforadio.com.tw:8000/ufo
+江苏故事广播,http://live.xmcdn.com:80/live/540/64.m3u8
+CRI HIT FM,http://live.xmcdn.com:80/live/75/64.m3u8
+cnr音乐之声,http://live.xmcdn.com:80/live/12/64.m3u8
+上海动感101,http://live.xmcdn.com:80/live/53/64.m3u8
