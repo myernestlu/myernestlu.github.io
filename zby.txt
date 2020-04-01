@@ -1,22 +1,16 @@
 各省卫视,#genre#
-湖南卫视,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000296202.m3u8#http://httpdvb.slave.homed.hrtn.net:80/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&playtoken=ABCDEFGHIGK&programid=4200000153.m3u8#http://ivi.bupt.edu.cn/hls/hunanhd.m3u8#http://ivi.bupt.edu.cn/hls/hunantv.m3u8#http://stream.cdjsxy.cn/hnws/sd/live.m3u8
-浙江卫视,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000295503.m3u8#http://ali.m.l.cztv.com/channels/lantian/channel01/720p.m3u8
-江苏卫视,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000295601.m3u8
-青海卫视,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000294703.m3u8
-宁夏卫视http://cctvalih5ca.v.myalicdn.com/wstv/ningxia_2/index.m3u8
-东南卫视,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000292501.m3u8
-辽宁卫视,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000281301.m3u8#http://wstvalic.v.myalicdn.com/wstv/liaoning_1/index.m3u8#http://by4.nty.tv189.cn/tm-liaoninghd-800k.m3u8
+湖南卫视,http://httpdvb.slave.homed.hrtn.net:80/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&playtoken=ABCDEFGHIGK&programid=4200000153.m3u8#http://ivi.bupt.edu.cn/hls/hunanhd.m3u8#http://ivi.bupt.edu.cn/hls/hunantv.m3u8#http://stream.cdjsxy.cn/hnws/sd/live.m3u8
+浙江卫视,http://ali.m.l.cztv.com/channels/lantian/channel01/720p.m3u8
+宁夏卫视,http://cctvalih5ca.v.myalicdn.com/wstv/ningxia_2/index.m3u8
+辽宁卫视,http://wstvalic.v.myalicdn.com/wstv/liaoning_1/index.m3u8#http://by4.nty.tv189.cn/tm-liaoninghd-800k.m3u8
 厦门卫视,http://cstvpull.live.wscdns.com/live/xiamen.flv
-河南卫视,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000296101.m3u8#http://cctvalih5ca.v.myalicdn.com/wstv/henan_2/index.m3u8
-黑龙江卫视,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000293901.m3u8#http://cctvalih5ca.v.myalicdn.com/wstv/heilongjiang_2/index.m3u8
-上海东方,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000292402.m3u8
+河南卫视,http://cctvalih5ca.v.myalicdn.com/wstv/henan_2/index.m3u8
+黑龙江卫视,http://cctvalih5ca.v.myalicdn.com/wstv/heilongjiang_2/index.m3u8
 广东珠江,http://nclive.grtn.cn/zjpd/sd/live.m3u8
 广东公共,http://nclive.grtn.cn/ggpd/sd/live.m3u8
 广东影视,http://nclive.grtn.cn/tvs4/sd/live.m3u8
 广州综合,https://channel.gztv.com/channelf/viewapi/player/channelVideo?id=5c7f7072e4b01c17db18fbd5&commentFrontUrl=https://comment.gztv.com/commentf
 南方卫视,http://nclive.grtn.cn/tvs2/sd/live.m3u8
-湖南娱乐,https://pcyf.qing.mgtv.com/nn_live/nn_x64/cWlkPSZzPTRiZjQxMzgxMjkxNTNmNDZmYjNkMjAyYWYwYjU1YzhkJmVzPTE1ODU2NzE0MjYmdXVpZD00YmE5NTExOGI4NGRhYTYyZDcwMmZiMTA1YTg5OGI3Zi03MzMxNjU2NSZ2PTImYXM9MCZjZG5leF9pZD15Zl9wY19saXZl/HNYLMPP360.flv
-广东卫视,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000292703.m3u8
 新港澳台,#genre#
 台湾壹新闻,https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8
 香港23新闻台,https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c.m3u8
@@ -35,30 +29,17 @@
 澳亚卫视,http://stream.mastvnet.com/MASTV/sd/live.m3u8
 澳门莲花卫视,http://live-rtmp.macaulotustv.com/lotustv/5562e9e4d409d24c9600075c.m3u8
 央视频道,#genre#
-CCTV1综合,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000210102.m3u8#http://live-temp-litchi-hls-yf.jstv.com/live/zhibo-cctv1gq/online.m3u8
-CCTV2财经,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
-CCTV3综艺,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203803.m3u8
-CCTV4K国际,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
-CCTV6电影,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203302.m3u8#http://cctvalih5ca.v.myalicdn.com/live/cctv6_2/index.m3u8
-CCTV7国防军事,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000510003.m3u8
-CCTV8电视剧,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203903.m3u8
-CCTV9记录,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000499403.m3u8
-CCTV10科教,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203503.m3u8
-CCTV12社会与法,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000202603.m3u8
-CCTV13新闻,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204602.m3u8#http://123.6.25.174:8080/zijian.hls.video.qq.com/0AC1F82F2D19DDCCD3C2B79E192B7AA663B53254FBF52BAEC456EAB8825BCF9BCDD3027867450CA450D0FE19DA5D1583ABBAFED70BA22679A20A04ECB745AD00943A73E31ED0B1A7BA9BFC7712B64612EFE9F207025937C27B6EEB298BE6B0CC5E48F098F84B9E753A67E7010BE0C48E/1147199801.m3u8?cdncode=%2f18907E7BE0798990%2f&time=1585470828&cdn=zijian&sdtfrom=v1506212&platform=10201&butype=6&scheduleflag=1&HLSP2P=1&buname=qqlive&vkey=0AC1F82F2D19DDCCD3C2B79E192B7AA663B53254FBF52BAEC456EAB8825BCF9BCDD3027867450CA450D0FE19DA5D1583ABBAFED70BA22679A20A04ECB745AD00943A73E31ED0B1A7BA9BFC7712B64612EFE9F207025937C27B6EEB298BE6B0CC5E48F098F84B9E753A67E7010BE0C48E
-CCTV15音乐,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8
-CCTV17农业农村,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
+CCTV1综合,http://live-temp-litchi-hls-yf.jstv.com/live/zhibo-cctv1gq/online.m3u8
+CCTV6电影,http://cctvalih5ca.v.myalicdn.com/live/cctv6_2/index.m3u8
 体育频道,#genre#
 广东体育,http://nclive.grtn.cn/typd/sd/live.m3u8
-CCTV5体育,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000205103.m3u8#http://39.134.65.162/PLTV/88888888/224/3221225491/index.m3u8
-CCTV5+体育赛事,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204502.m3u8
+CCTV5体育,http://39.134.65.162/PLTV/88888888/224/3221225491/index.m3u8
 BTV6纪实,http://by4.nty.tv189.cn/tm-btvjishihd-4000k.m3u8
 劲爆体育,http://liveplay-kk.rtxapp.com/live/program/live/jbtyhd/2300000/mnf.m3u8
 五星体育,http://liveplay-kk.rtxapp.com/live/program/live/ssty/2300000/mnf.m3u8
 吉林篮球,http://stream1.jlntv.cn/lqpd/sd/live.m3u8
 江苏体育,http://by4.nty.tv189.cn/tm-jstyhd-800k.m3u8
 少儿频道,#genre#
-CCTV14少儿,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204403.m3u8
 CCTV新科动漫,http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2_hd.m3u8
 广东嘉佳,http://nclive.grtn.cn/jjkt/sd/live.m3u8
 广东少儿,http://nclive.grtn.cn/tvs5/sd/live.m3u8
@@ -77,6 +58,7 @@ BTV卡酷少儿,http://by4.nty.tv189.cn/tm-kaku-800k.m3u8#http://ivi.bupt.edu.cn
 综合影视,#genre#
 电影Ⅰ周星驰经典轮播,http://3954.liveplay.myqcloud.com/live/3954_382995145.xs
 电影Ⅰ【4K超清】七七陪你看电影!,http://tx2play1.douyucdn.cn/live/925724reTf5A0oyK.xs
+粤语片成龙洪金宝再现港片经典[24h],https://lvo-live.youku.com/vod2live/03000700005CACE3B173FEA330EC2DBB6D42B3-B932-464D-8DCC-E820CFF5DA5D-1-110-LIVE-302-0324-0240-04181_mp4hd2v3.m3u8?title=%E7%B2%A4%E8%AF%AD%E7%89%87%E6%88%90%E9%BE%99%E6%B4%AA%E9%87%91%E5%AE%9D%E5%86%8D%E7%8E%B0%E6%B8%AF%E7%89%87%E7%BB%8F%E5%85%B8%5B24h%5D&ver=1.0.0&uid=0&log_type=log_type&aliyun_uuid=7qmZFiyaOA4CAXMxZYEMc1YJ&cdnQuality=720p&quality=4&multi_raw_stream=03000700005CACE3B173FEA330EC2DBB6D42B3-B932-464D-8DCC-E820CFF5DA5D-1-110-LIVE-302-0324-0240-04181&ccode=live05010101&expire=21600&psid=D83B141887E296F24BF75DC6B148E2E5&ups_client_netip=115.49.101.101&ups_ts=1585747910&ups_userid=0&utid=7qmZFiyaOA4CAXMxZYEMc1YJ&vid=8018617_8022912&fn=03000700005CACE3B173FEA330EC2DBB6D42B3-B932-464D-8DCC-E820CFF5DA5D-1-110-LIVE-302-0324-0240-04181_mp4hd2v3&vkey=B31d263b34b4a09599bd44c112420fc85
 电影Ⅰ粤语【周星驰】【林正英】,http://tx2play1.douyucdn.cn/live/5033502rWnRpioJO.xs
 电影Ⅰ豆宝陪看 高分电影直播间,http://tx2play1.douyucdn.cn/live/8058642rnpW7SgfT.xs
 电影Ⅰ小饼 高分影视放映厅,http://tx2play1.douyucdn.cn/live/1735337rTJDYynut.xs
@@ -86,6 +68,7 @@ BTV卡酷少儿,http://by4.nty.tv189.cn/tm-kaku-800k.m3u8#http://ivi.bupt.edu.cn
 电影Ⅰ经典 科幻 动作 灾难 巨兽,http://tx2play1.douyucdn.cn/live/252802rbQGaZXUQi.xs
 电影Ⅰ【周星驰】星爷 华语 经典 电影 神乐,http://tx2play1.douyucdn.cn/live/122402rK7MO9bXSq.xs
 电影Ⅰ【神乐】华语 经典 电影 刘德华 周星驰,http://tx2play1.douyucdn.cn/live/85894rmovieChow.xs
+奥斯卡经典电影精彩播不停[24h],https://lvo-live.youku.com/vod2live/03000700005CACE3B173FEA330EC2DBB6D42B3-B932-464D-8DCC-E820CFF5DA5D-1-110-LIVE-294-0324-0240-0088_mp4hd2v3.m3u8?title=%E5%A5%A5%E6%96%AF%E5%8D%A1%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1%E7%B2%BE%E5%BD%A9%E6%92%AD%E4%B8%8D%E5%81%9C%5B24h%5D&ver=1.0.0&uid=0&log_type=log_type&aliyun_uuid=7qmZFiyaOA4CAXMxZYEMc1YJ&cdnQuality=720p&quality=4&multi_raw_stream=03000700005CACE3B173FEA330EC2DBB6D42B3-B932-464D-8DCC-E820CFF5DA5D-1-110-LIVE-294-0324-0240-0088&ccode=live05010101&expire=21600&psid=3962FDD531B9090EAAB9DBE31DEF8DFC&ups_client_netip=115.49.101.101&ups_ts=1585747731&ups_userid=0&utid=7qmZFiyaOA4CAXMxZYEMc1YJ&vid=8018655_8022948&fn=03000700005CACE3B173FEA330EC2DBB6D42B3-B932-464D-8DCC-E820CFF5DA5D-1-110-LIVE-294-0324-0240-0088_mp4hd2v3&vkey=Be5bd6344c8b425b260da67e47014faa2
 电影Ⅰ每晚悄悄话,http://tx2play1.douyucdn.cn/live/6557037rnQ70MGFS.xs
 电影Ⅰ【贝爷影厅】经典 科幻 动作 灾难 巨兽,http://tx2play1.douyucdn.cn/live/252802rbQGaZXUQi.xs
 电影Ⅰ可乐 欧美 电影 科幻 经典 动作,http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K.xs
@@ -115,8 +98,12 @@ BTV卡酷少儿,http://by4.nty.tv189.cn/tm-kaku-800k.m3u8#http://ivi.bupt.edu.cn
 动漫Ⅰ【动漫】热血 木叶忍者 草帽路飞 青春,http://tx2play1.douyucdn.cn/live/206858rtestxjl.xs
 动漫Ⅰ中华小当家：美食之旅,http://aldirect.hls.huya.com/backsrc/29106097-2686804038-11539735473970741248-2777036638-10057-A-1524192214-1.m3u8
 动漫Ⅰ很优美,http://tx2play1.douyucdn.cn/live/7528160rdLbJPmfK.xs
+动漫Ⅰ蜡笔小新,https://flv-aliplay.inter.71edge.com/liveugc/rqy_q0tzjh3b.flv
 动漫Ⅰ奥特曼合集,http://3954.liveplay.myqcloud.com/live/3954_10848286.xs
+动漫Ⅰ懒猫看动漫,https://flv-qqplay.inter.71edge.com/liveugc/rqy_tzadah4d.flv
+动漫Ⅰ【MZ】名侦探柯南-真相永远只有一个！,https://flv-qqplay.inter.71edge.com/liveugc/rqy_5zr4gy0y.flv
 恐怖影院,#genre#
+【MZ】林正英鬼片,https://flv-qqplay.inter.71edge.com/liveugc/rqy_u2a2xsn4.flv
 【英叔护体】全天 僵尸 鬼片 恐怖电影,http://3954.liveplay.myqcloud.com/live/3954_363783415.xs
 【林正英】僵尸 女鬼 弹幕 护体,http://tx2play1.douyucdn.cn/live/218859rLZx61rcDy.xs
 【恐怖】丧尸 鬼片 灾难,http://tx2play1.douyucdn.cn/live/263824ryQeKiO750.xs
@@ -138,9 +125,6 @@ Dream.三条,http://3954-f.liveplay.myqcloud.com/live/3954_382886558.xs
 纯黑GK,http://3954.liveplay.myqcloud.com/live/3954_700746795.xs
 小熊flippy,http://3954.liveplay.myqcloud.com/live/3954_726689688.xs
 游戏Ⅰ狂鸟丶Y阳,http://aldirect.hls.huya.com/backsrc/98605022-98605022-423505344711360512-704771112-10057-A-0-1.m3u8
-游戏Ⅰ狂鸟丶猪崽,http://aldirect.hls.huya.com/backsrc/24921725-24921725-107037993834905600-1326931476-10057-A-0-1.m3u8
-游戏Ⅰ北笙丶沐辰,http://aldirect.hls.huya.com/backsrc/1259514827351-1259514827351-4678978702732689408-2519029778158-10057-A-0-1.m3u8
-游戏Ⅰ托马斯CzH,http://aldirect.hls.huya.com/backsrc/1199512718563-1199512718563-5226300799172214784-2399025560582-10057-A-0-1.m3u8
 游戏Ⅰ【Biu】真人24小时综合游戏直播,http://tx2play1.douyucdn.cn/live/5095833rV4LSluxA.xs
 生存Ⅰ一个人的浪漫,http://aldirect.hls.huya.com/backsrc/1199530109346-1199530109346-5300993643409047552-2399060342148-10057-A-0-1.m3u8
 生存Ⅰ先生,http://aldirect.hls.huya.com/backsrc/91890079-91890079-394664884131856384-1509800-10057-A-0-1.m3u8
