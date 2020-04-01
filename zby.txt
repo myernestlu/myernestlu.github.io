@@ -56,7 +56,7 @@ CCTV5+体育赛事,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.c
 BTV6纪实,http://by4.nty.tv189.cn/tm-btvjishihd-4000k.m3u8
 劲爆体育,http://liveplay-kk.rtxapp.com/live/program/live/jbtyhd/2300000/mnf.m3u8
 五星体育,http://liveplay-kk.rtxapp.com/live/program/live/ssty/2300000/mnf.m3u8
-吉林篮球,http://stream1.jlntv.cn/lqpd/sd/live.m3u8
+吉林体育,http://stream1.jlntv.cn/lqpd/sd/live.m3u8
 江苏体育,http://by4.nty.tv189.cn/tm-jstyhd-800k.m3u8
 少儿频道,#genre#
 CCTV14少儿,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204403.m3u8
@@ -89,21 +89,33 @@ BTV卡酷少儿,http://by4.nty.tv189.cn/tm-kaku-800k.m3u8#http://ivi.bupt.edu.cn
 电影Ⅰ经典 科幻 动作 灾难 巨兽,http://tx2play1.douyucdn.cn/live/252802rbQGaZXUQi_8000p.flv
 电影Ⅰ【周星驰】星爷 华语 经典 电影 神乐,http://tx2play1.douyucdn.cn/live/122402rK7MO9bXSq_8000p.flv
 电影Ⅰ【神乐】华语 经典 电影 刘德华 周星驰,http://tx2play1.douyucdn.cn/live/85894rmovieChow_8000p.flv
-电影Ⅰ吃奶滴虫-恐怖 丧尸 鬼片 灾难,http://tx2play1.douyucdn.cn/live/263824ryQeKiO750_8000.flv
 韩流ⅠKpop女团点播直播间,http://tx2play1.douyucdn.cn/live/329667r1tZ6GtOMy.flv
-韩流ⅠKpop女团竖屏,http://tx2play1.douyucdn.cn/live/7607642r98YCLLQJ.flv
-韩流Ⅰ【竖屏专用】精选女团,http://tx2play1.douyucdn.cn/live/3377456rcoRun3a5.flv
-韩流Ⅰ专业女团【超万部女团】任你点,http://tx2play1.douyucdn.cn/live/340224rdSza2iC1x.flv
-韩流Ⅰ【男团】精选韩国现场MMD饭拍MV,http://tx2play1.douyucdn.cn/live/455891rAzUqhQb7A.flv
+韩流ⅠKpop女团竖屏,http://tx2play1.douyucdn.cn/live/7607642r2xQK2jRz.flv
+韩流Ⅰ【竖屏专用】精选女团,http://tx2play1.douyucdn.cn/live/3377456rjGZ6APrw.flv
+韩流Ⅰ专业女团【超万部女团】任你点,http://tx2play1.douyucdn.cn/live/340224rvlPw95tj0.flv
+韩流Ⅰ清晨醒脑！T-ARA根本停不下来！,http://tx2play1.douyucdn.cn/live/17732rtara.flv
+韩流Ⅰ【男团】精选韩国现场MMD饭拍MV,http://tx2play1.douyucdn.cn/live/455891rXsYZoSpib.flv
+韩流Ⅰ【韩国女团】高清写真,http://tx2play1.douyucdn.cn/live/6648727rvNv0bLvc.flv
 韩流Ⅰ【女团】精选韩国现场饭拍MV,http://tx2play1.douyucdn.cn/live/231464rhOdShznSN.flv
 韩流Ⅰ超清KPOP现场,http://tx2play1.douyucdn.cn/live/7298478rk7h4n7Hw_8000.flv
 韩流Ⅰ【24H女团】直拍,http://tx2play1.douyucdn.cn/live/222286rQc46L4cDY.flv
+韩流Ⅰ天下女团，想看什么自己点,http://tx2play1.douyucdn.cn/live/493589rHQV7CyGXo.flv
+韩流Ⅰ24小时女团,http://tx2play1.douyucdn.cn/live/1065432rXZP2wLrf.flv
 韩流Ⅰ高颜值女团-舞台名场面,http://aldirect.hls.huya.com/backsrc/1099531753530-1099531753530-86439455237341184-2199063630516-10057-A-0-1.m3u8
+韩流Ⅰ女团 久久钕团,http://tx2play1.douyucdn.cn/live/6852568rfgBwzfVz.flv
+韩流Ⅰ最强女团，没有之一,http://tx2play1.douyucdn.cn/live/211561rsZepL2Kbo.flv
 动漫Ⅰ【猫和老鼠】汤姆和杰瑞的故事,http://aldirect.hls.huya.com/backsrc/94525224-2679664054-11509069476196777984-2847687532-10057-A-0-1.m3u8
 动漫Ⅰ蜡笔小新,http://aldirect.hls.huya.com/backsrc/94525224-2503194318-10751137731343024128-2847699212-10057-A-0-1.m3u8
 动漫Ⅰ苹果漫漫我们的童年,http://tx2play1.douyucdn.cn/live/1174353rslpQshvh.flv
 动漫Ⅰ【动漫】热血 木叶忍者 草帽路飞 青春,http://tx2play1.douyucdn.cn/live/206858rtestxjl_8000.flv
 动漫Ⅰ中华小当家：美食之旅,http://aldirect.hls.huya.com/backsrc/29106097-2686804038-11539735473970741248-2777036638-10057-A-1524192214-1.m3u8
+恐怖影院,#genre#
+【恐怖】丧尸 鬼片 灾难,http://tx2play1.douyucdn.cn/live/263824ryQeKiO750_8000.flv
+【禁忌】恐怖、丧尸、惊悚,http://tx2play1.douyucdn.cn/live/5129261rbbZJZeoK.flv
+恐怖、动作影院,http://tx2play1.douyucdn.cn/live/8330816rPMhXvhsR.flv
+丧尸 鬼片 恐怖 惊悚 电影,http://tx2play1.douyucdn.cn/live/96577r4UI472mJKX_8000.flv
+恐怖影院 请关灯后食用！,http://tx2play1.douyucdn.cn/live/5872811rt9j2RfKQ.flv
+童年阴影 女鬼 僵尸 恐怖 英叔,http://tx2play1.douyucdn.cn/live/2935323rXkfdGxOz.flv
 谈古论今,#genre#
 科学探索,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_kexuetansuo_1080p_t10/c16_lb_kexuetansuo_1080p_t10.m3u8
 历史秘闻,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_lishimiwen_1080p_t10/c15_lb_lishimiwen_1080p_t10.m3u8
