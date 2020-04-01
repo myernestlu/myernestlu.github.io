@@ -56,7 +56,7 @@ CCTV5+体育赛事,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.c
 BTV6纪实,http://by4.nty.tv189.cn/tm-btvjishihd-4000k.m3u8
 劲爆体育,http://liveplay-kk.rtxapp.com/live/program/live/jbtyhd/2300000/mnf.m3u8
 五星体育,http://liveplay-kk.rtxapp.com/live/program/live/ssty/2300000/mnf.m3u8
-吉林体育,http://stream1.jlntv.cn/lqpd/sd/live.m3u8
+吉林篮球,http://stream1.jlntv.cn/lqpd/sd/live.m3u8
 江苏体育,http://by4.nty.tv189.cn/tm-jstyhd-800k.m3u8
 少儿频道,#genre#
 CCTV14少儿,https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204403.m3u8
