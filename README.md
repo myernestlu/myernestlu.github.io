@@ -6,8 +6,8 @@
 
 -----------------------------------------------
 打赏捐赠
-支付宝<a href="https://postimg.cc/CR7HZbjF" target="_blank"><img src="https://i.postimg.cc/CR7HZbjF/IMG-20200402-134802.jpg" alt="IMG-20200402-134802"/></a><br/><br/>
-微信<a href="https://postimg.cc/LYczdDMV" target="_blank"><img src="https://i.postimg.cc/LYczdDMV/mm-facetoface-collect-qrcode-1585805218129.png" alt="mm-facetoface-collect-qrcode-1585805218129"/></a><br/><br/>
+-----------------------------------------------
+<a href="https://postimg.cc/CR7HZbjF" target="_blank"><img src="https://i.postimg.cc/CR7HZbjF/IMG-20200402-134802.jpg" alt="IMG-20200402-13480
 
 
 -----------------------------------------------
