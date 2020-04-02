@@ -7,3 +7,6 @@
 -----------------------------------------------
 
 联系邮箱:myernestlu@gmail.com
+-----------------------------------------------
+打赏捐赠<img src="https://cdn.img.wenhairu.com/images/2020/04/02/FBTxA.jpg" alt="FBTxA.jpg" border="0">
+<img src="https://cdn.img.wenhairu.com/images/2020/04/02/FBOTn.png" alt="FBOTn.png" border="0">
