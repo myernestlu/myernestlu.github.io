@@ -4,10 +4,11 @@
 安徽卫视,https://cctvtxyh5ca.liveplay.myqcloud.com/wstv/anhui_2/index.m3u8#https://cctvtxyh5ca.liveplay.myqcloud.com/wstv/anhui_2/index.m3u8
 宁夏卫视,http://cctvalih5ca.v.myalicdn.com/wstv/ningxia_2/index.m3u8
 辽宁卫视,http://wstvalic.v.myalicdn.com/wstv/liaoning_1/index.m3u8#http://by4.nty.tv189.cn/tm-liaoninghd-800k.m3u8#https://cctvtxyh5ca.liveplay.myqcloud.com/wstv/liaoning_2/index.m3u8
-上海东方,http://ivi.bupt.edu.cn/hls/dfhd.m3u8
+东方卫视,http://ivi.bupt.edu.cn/hls/dfhd.m3u8
 湖北卫视,http://live.cjyun.org/hubeitv/s10008-live-hbws.m3u8
 厦门卫视,http://by4.nty.tv189.cn/live/tm-xiamentv-800k.m3u8#http://cstvpull.live.wscdns.com/live/xiamen.flv
 河南卫视,http://cctvalih5ca.v.myalicdn.com/wstv/henan_2/index.m3u8#https://cctvtxyh5ca.liveplay.myqcloud.com/wstv/henan_2/index.m3u8
+吉林卫视,http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=011&Provider_id=&Pcontent_id=index.m3u8
 重庆卫视,https://cctvtxyh5ca.liveplay.myqcloud.com/wstv/chongqing_2/index.m3u8
 黑龙江卫视,http://cctvalih5ca.v.myalicdn.com/wstv/heilongjiang_2/index.m3u8
 河北卫视,https://cctvtxyh5ca.liveplay.myqcloud.com/wstv/hebei_2/index.m3u8
@@ -21,6 +22,10 @@
 北京影视,http://by4.nty.tv189.cn/live/tm-btv4-800k.m3u8
 南方卫视,http://nclive.grtn.cn/tvs2/sd/live.m3u8
 新港澳台,#genre#
+香港hks,http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xianggangweishi_2_hd.m3u8
+无线新闻,http://cczylive.chuangwanghulian.cn/live/zy_1531983996445.flv?auth_key=1593500458-57590819-0-3bc1f0bf55895038da448c64a71d09f1
+中视HD,http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
+华视CTS,http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8
 台湾壹新闻,https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8
 香港23新闻台,https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c.m3u8
 新U频道,https://d3inlz9elsutjl.cloudfront.net:443/hls/chuctv/master02.m3u8
@@ -33,6 +38,7 @@
 香港J2台,http://pull.scphsd.com/live/178e54a8946823b25a320567d90acc31/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 八大综合,http://192.154.103.75:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
+中天综合,http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 台湾壹新闻,https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8
 东森电影,http://192.154.103.75:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
 东森新闻,http://pull.scphsd.com/live/de40860438e011bfaf85f4b32af7e924/playlist.m3u8#http://192.154.103.75:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
@@ -46,6 +52,29 @@ CCTV10科教,https://cctvalih5ca.v.myalicdn.com/live/cctv10_2/index.m3u8#https:/
 CCTV13新闻,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv13_2/index.m3u8
 CCTV14少儿,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctvchild_2/index.m3u8#https://cctvalih5ca.v.myalicdn.com/live/cctvchild_2/index.m3u8
 CCTV15音乐,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv15_2/index.m3u8
+网课测试,#genre#
+#EXTINF:-1 group-title="网课",初二英语1
+https://charge.zuoyebang.cc/record_005603d0e9b43710dabf82f648a53bbd.mp4
+#EXTINF:-1 group-title="网课",初二英语5
+https://charge.zuoyebang.cc/record_012557ac4f3b050fcca197ff4427c5a5.mp4
+#EXTINF:-1 group-title="网课",小一英语1
+https://charge.zuoyebang.cc/record_025a0712f50cb90fb3f67eed1fa64fc5.mp4
+#EXTINF:-1 group-title="网课",高一地理2
+https://charge.zuoyebang.cc/record_02f68c3aa1f2fce91fe93cc697d9665f.mp4
+#EXTINF:-1 group-title="网课",高一语文5
+https://charge.zuoyebang.cc/record_057f7235b64300448b8d1e70b1bc2ff3.mp4
+#EXTINF:-1 group-title="网课",小六英语3
+https://charge.zuoyebang.cc/record_05e880d21ec77727b1710a68210ad535.mp4
+#EXTINF:-1 group-title="网课",初三物理3
+https://charge.zuoyebang.cc/record_07790cba532d3064f1d12d2b57ca837b.mp4
+#EXTINF:-1 group-title="网课",小一数学4
+https://charge.zuoyebang.cc/record_07797cf5a8c46ce2e82c8f555c7fb98d.mp4
+#EXTINF:-1 group-title="网课",高一数学7
+https://charge.zuoyebang.cc/record_09901223755ddff933c34a7c8c4026d9.mp4
+#EXTINF:-1 group-title="网课",初三语文4
+https://charge.zuoyebang.cc/record_0a414cbdcc0eb044c02f33bec1e9a66e.mp4
+#EXTINF:-1 group-title="网课",小一数学2
+https://charge.zuoyebang.cc/record_0a4f45f7ac17b5e7ab3b954fc3e70705.mp4
 体育频道,#genre#
 广东体育,http://nclive.grtn.cn/typd/sd/live.m3u8
 CCTV5体育,http://39.134.65.162/PLTV/88888888/224/3221225491/index.m3u8
@@ -55,6 +84,11 @@ BTV6纪实,http://by4.nty.tv189.cn/tm-btvjishihd-4000k.m3u8
 吉林篮球,http://stream1.jlntv.cn/lqpd/sd/live.m3u8
 江苏体育,http://by4.nty.tv189.cn/tm-jstyhd-800k.m3u8
 少儿频道,#genre#
+动画电影,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_donghuadianying_1080p_t10/c16_lb_donghuadianying_1080p_t10.m3u8
+喜羊羊与灰太狼,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_xiyangyang_1080p_t10/c15_lb_xiyangyang_1080p_t10.m3u8
+哆啦A梦,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_duolaameng_1080p_t10/c15_lb_duolaameng_1080p_t10.m3u8
+爱动漫,http://101.71.255.229:6610/zjhs/2/10107/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+靖天卡通,http://61.58.60.230:9319/live/207.m3u8
 CINB动漫,http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_chan_hls_se_idx=032&Provider_id=&Pcontent_id=index.m3u8
 CCTV新科动漫,http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2_hd.m3u8
 哈哈炫动,http://125.210.152.18:9090/live/XDKT.m3u8
@@ -73,8 +107,13 @@ BTV卡酷少儿,http://by4.nty.tv189.cn/tm-kaku-800k.m3u8#http://ivi.bupt.edu.cn
 浙江少儿,http://yf.m.l.cztv.com/channels/lantian/channel08/360p.m3u8
 天津少儿,http://112.240.60.81/live2.wisetv.com.cn/TJIPTV/TJSE/playlist.m3u8?wsSession=-
 综合影视,#genre#
+周末影院,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_fengxiaogang_1080p_t10/c16_lb_fengxiaogang_1080p_t10.m3u8
+动作电影,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_dongzuodianying_1080p_t10/c16_lb_dongzuodianying_1080p_t10.m3u8
+经典港片,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_jingdianguangpian_1080p_t10/c15_lb_jingdianguangpian_1080p_t10.m3u8
 CIBN电影,http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_chan_hls_se_idx=033&Provider_id=&Pcontent_id=index.m3u8
-电影ⅠCHC电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
+五星影院,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_wuxingyingyuan_1080p_t10/c15_lb_wuxingyingyuan_1080p_t10.m3u8
+CHC电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
+黑帮电影,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_heibangdianying_1080p_t10/c16_lb_heibangdianying_1080p_t10.m3u8
 电影Ⅰ周星驰经典轮播,http://3954.liveplay.myqcloud.com/live/3954_382995145.xs
 电影Ⅰ【4K超清】七七陪你看电影!,http://tx2play1.douyucdn.cn/live/925724reTf5A0oyK.xs
 电影Ⅰ粤语片成龙洪金宝再现港片经典[24h],https://lvo-live.youku.com/vod2live/03000700005CACE3B173FEA330EC2DBB6D42B3-B932-464D-8DCC-E820CFF5DA5D-1-110-LIVE-302-0324-0240-04181_mp4hd2v3.m3u8?title=%E7%B2%A4%E8%AF%AD%E7%89%87%E6%88%90%E9%BE%99%E6%B4%AA%E9%87%91%E5%AE%9D%E5%86%8D%E7%8E%B0%E6%B8%AF%E7%89%87%E7%BB%8F%E5%85%B8%5B24h%5D&ver=1.0.0&uid=0&log_type=log_type&aliyun_uuid=7qmZFiyaOA4CAXMxZYEMc1YJ&cdnQuality=720p&quality=4&multi_raw_stream=03000700005CACE3B173FEA330EC2DBB6D42B3-B932-464D-8DCC-E820CFF5DA5D-1-110-LIVE-302-0324-0240-04181&ccode=live05010101&expire=21600&psid=D83B141887E296F24BF75DC6B148E2E5&ups_client_netip=115.49.101.101&ups_ts=1585747910&ups_userid=0&utid=7qmZFiyaOA4CAXMxZYEMc1YJ&vid=8018617_8022912&fn=03000700005CACE3B173FEA330EC2DBB6D42B3-B932-464D-8DCC-E820CFF5DA5D-1-110-LIVE-302-0324-0240-04181_mp4hd2v3&vkey=B31d263b34b4a09599bd44c112420fc85
@@ -121,6 +160,9 @@ CIBN电影,http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_chan_hls_se_i
 动漫Ⅰ奥特曼合集,http://3954.liveplay.myqcloud.com/live/3954_10848286.xs
 动漫Ⅰ懒猫看动漫,https://flv-qqplay.inter.71edge.com/liveugc/rqy_tzadah4d.flv
 动漫Ⅰ【MZ】名侦探柯南-真相永远只有一个！,https://flv-qqplay.inter.71edge.com/liveugc/rqy_5zr4gy0y.flv
+哆啦A梦,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_duolaameng_1080p_t10/c15_lb_duolaameng_1080p_t10.m3u8
+喜羊羊,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_xiyangyang_1080p_t10/c15_lb_xiyangyang_1080p_t10.m3u8
+名侦探柯南,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_mingzhentankenan_1080p_t10/c15_lb_mingzhentankenan_1080p_t10.m3u8
 恐怖影院,#genre#
 【MZ】林正英鬼片,https://flv-qqplay.inter.71edge.com/liveugc/rqy_u2a2xsn4.flv
 【英叔护体】全天 僵尸 鬼片 恐怖电影,http://3954.liveplay.myqcloud.com/live/3954_363783415.xs
@@ -132,7 +174,9 @@ CIBN电影,http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_chan_hls_se_i
 恐怖影院 请关灯后食用！,http://tx2play1.douyucdn.cn/live/5872811rt9j2RfKQ.xs
 童年阴影 女鬼 僵尸 恐怖 英叔,http://tx2play1.douyucdn.cn/live/2935323rXkfdGxOz.xs
 相声小品,#genre#
+相声小品,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_xiangshengxiaopin_1080p_t10/c15_lb_xiangshengxiaopin_1080p_t10.m3u8
 历史秘闻,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_lishimiwen_1080p_t10/c15_lb_lishimiwen_1080p_t10.m3u8
+喜剧大咖,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_xijudaka_1080p_t10/c15_lb_xijudaka_1080p_t10.m3u8
 德云社 郭德纲 相声专场 陪你看,http://3954.liveplay.myqcloud.com/live/3954_468780224.xs
 相声小品,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_xiangshengxiaopin_1080p_t10/c15_lb_xiangshengxiaopin_1080p_t10.m3u8
 传统相声专场24 郭德纲 于谦,http://3954.liveplay.myqcloud.com/live/3954_616289265.xs
