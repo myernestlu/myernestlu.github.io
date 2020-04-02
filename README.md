@@ -5,6 +5,8 @@
 电台直播源:https://myernestlu.github.io/dty.txt
 
 -----------------------------------------------
-联系邮箱:myernestlu@gmail.com
------------------------------------------------
 打赏捐赠
+微信<a href="https://img.wenhairu.com/image/FBOTn"><img src="https://cdn.img.wenhairu.com/images/2020/04/02/FBOTn.th.png" alt="FBOTn.png" border="0" /></a>支付宝<a href="https://img.wenhairu.com/image/FBXaT"><img src="https://cdn.img.wenhairu.com/images/2020/04/02/FBXaT.th.jpg" alt="FBXaT.jpg" border="0" /></a>
+
+-----------------------------------------------
+联系邮箱:myernestlu@gmail.com
