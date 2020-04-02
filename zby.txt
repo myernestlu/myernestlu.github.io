@@ -12,6 +12,7 @@
 重庆卫视,https://cctvtxyh5ca.liveplay.myqcloud.com/wstv/chongqing_2/index.m3u8
 黑龙江卫视,http://cctvalih5ca.v.myalicdn.com/wstv/heilongjiang_2/index.m3u8
 河北卫视,https://cctvtxyh5ca.liveplay.myqcloud.com/wstv/hebei_2/index.m3u8
+陕西卫视高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225896/1.m3u8
 海南卫视,http://by4.nty.tv189.cn/live/tm-traveltv-800k.m3u8
 广东南方,https://cctvtxyh5ca.liveplay.myqcloud.com/wstv/dongnan_2/index.m3u8
 广东珠江,http://nclive.grtn.cn/zjpd/sd/live.m3u8
