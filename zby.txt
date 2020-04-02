@@ -25,6 +25,8 @@
 新港澳台,#genre#
 香港hks,http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xianggangweishi_2_hd.m3u8
 无线新闻,http://cczylive.chuangwanghulian.cn/live/zy_1531983996445.flv?auth_key=1593500458-57590819-0-3bc1f0bf55895038da448c64a71d09f1
+TVB翡翠台,http://hdl0901.plures.net/onlive/2680e67f163d3f549999dc36ecc1bb46.flv
+寰宇新闻1,hdl0901.plures.net/onlive/bbd231be3acbb626a1409cc39eb92203.flv
 中视HD,http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
 华视CTS,http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8
 台湾壹新闻,https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8
