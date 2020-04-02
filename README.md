@@ -8,5 +8,4 @@
 
 联系邮箱:myernestlu@gmail.com
 -----------------------------------------------
-打赏捐赠<a href="https://img.wenhairu.com/image/FBTxA"><img src="https://cdn.img.wenhairu.com/images/2020/04/02/FBTxA.md.jpg" alt="FBTxA.md.jpg" border="0"></a>
-<a href="https://img.wenhairu.com/image/FBOTn"><img src="https://cdn.img.wenhairu.com/images/2020/04/02/FBOTn.md.png" alt="FBOTn.md.png" border="0"></a>
+打赏捐赠<a href="https://img.wenhairu.com/image/FBTxA"><img src="https://cdn.img.wenhairu.com/images/2020/04/02/FBTxA.th.jpg" alt="FBTxA.th.jpg" border="0"></a> <a href="https://img.wenhairu.com/image/FBOTn"><img src="https://cdn.img.wenhairu.com/images/2020/04/02/FBOTn.th.png" alt="FBOTn.th.png" border="0"></a>
