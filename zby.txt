@@ -53,28 +53,46 @@ CCTV13新闻,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv13_2/index.m3u8
 CCTV14少儿,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctvchild_2/index.m3u8#https://cctvalih5ca.v.myalicdn.com/live/cctvchild_2/index.m3u8
 CCTV15音乐,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv15_2/index.m3u8
 网课测试,#genre#
-#EXTINF:-1 group-title="网课",初二英语1
-https://charge.zuoyebang.cc/record_005603d0e9b43710dabf82f648a53bbd.mp4
-#EXTINF:-1 group-title="网课",初二英语5
-https://charge.zuoyebang.cc/record_012557ac4f3b050fcca197ff4427c5a5.mp4
-#EXTINF:-1 group-title="网课",小一英语1
-https://charge.zuoyebang.cc/record_025a0712f50cb90fb3f67eed1fa64fc5.mp4
-#EXTINF:-1 group-title="网课",高一地理2
-https://charge.zuoyebang.cc/record_02f68c3aa1f2fce91fe93cc697d9665f.mp4
-#EXTINF:-1 group-title="网课",高一语文5
-https://charge.zuoyebang.cc/record_057f7235b64300448b8d1e70b1bc2ff3.mp4
-#EXTINF:-1 group-title="网课",小六英语3
-https://charge.zuoyebang.cc/record_05e880d21ec77727b1710a68210ad535.mp4
-#EXTINF:-1 group-title="网课",初三物理3
-https://charge.zuoyebang.cc/record_07790cba532d3064f1d12d2b57ca837b.mp4
-#EXTINF:-1 group-title="网课",小一数学4
-https://charge.zuoyebang.cc/record_07797cf5a8c46ce2e82c8f555c7fb98d.mp4
-#EXTINF:-1 group-title="网课",高一数学7
-https://charge.zuoyebang.cc/record_09901223755ddff933c34a7c8c4026d9.mp4
-#EXTINF:-1 group-title="网课",初三语文4
-https://charge.zuoyebang.cc/record_0a414cbdcc0eb044c02f33bec1e9a66e.mp4
-#EXTINF:-1 group-title="网课",小一数学2
-https://charge.zuoyebang.cc/record_0a4f45f7ac17b5e7ab3b954fc3e70705.mp4
+腾讯一年级,https://live-edu.wasu.tv/live/QiEFuDao-lv1.m3u8
+腾讯高一,https://live-edu.wasu.tv/live/QiEFuDao-lv10.m3u8
+腾讯高二,https://live-edu.wasu.tv/live/QiEFuDao-lv11.m3u8
+腾讯高三,https://live-edu.wasu.tv/live/QiEFuDao-lv12.m3u8
+腾讯二年级,https://live-edu.wasu.tv/live/QiEFuDao-lv2.m3u8
+腾讯三年级,https://live-edu.wasu.tv/live/QiEFuDao-lv3.m3u8
+腾讯四年级,https://live-edu.wasu.tv/live/QiEFuDao-lv4.m3u8
+腾讯五年级,https://live-edu.wasu.tv/live/QiEFuDao-lv5.m3u8
+腾讯六年级,https://live-edu.wasu.tv/live/QiEFuDao-lv6.m3u8
+腾讯初一,https://live-edu.wasu.tv/live/QiEFuDao-lv7.m3u8
+腾讯初二,https://live-edu.wasu.tv/live/QiEFuDao-lv8.m3u8
+腾讯初三,https://live-edu.wasu.tv/live/QiEFuDao-lv9.m3u8
+初二英语1,https://charge.zuoyebang.cc/record_005603d0e9b43710dabf82f648a53bbd.mp4
+初二英语5,https://charge.zuoyebang.cc/record_012557ac4f3b050fcca197ff4427c5a5.mp4
+小一英语1,https://charge.zuoyebang.cc/record_025a0712f50cb90fb3f67eed1fa64fc5.mp4
+高一地理2,https://charge.zuoyebang.cc/record_02f68c3aa1f2fce91fe93cc697d9665f.mp4
+高一语文5,https://charge.zuoyebang.cc/record_057f7235b64300448b8d1e70b1bc2ff3.mp4
+小六英语3,https://charge.zuoyebang.cc/record_05e880d21ec77727b1710a68210ad535.mp4
+初三物理3,https://charge.zuoyebang.cc/record_07790cba532d3064f1d12d2b57ca837b.mp4
+小一数学4,https://charge.zuoyebang.cc/record_07797cf5a8c46ce2e82c8f555c7fb98d.mp4
+高一数学7,https://charge.zuoyebang.cc/record_09901223755ddff933c34a7c8c4026d9.mp4
+初三语文4,https://charge.zuoyebang.cc/record_0a414cbdcc0eb044c02f33bec1e9a66e.mp4
+小一数学2,https://charge.zuoyebang.cc/record_0a4f45f7ac17b5e7ab3b954fc3e70705.mp4
+小四数学3.https://charge.zuoyebang.cc/record_0caf5ab0ead258a9fb74d2d65ad436e0.mp4
+高二语文1,https://charge.zuoyebang.cc/record_0df7d0850cabcace912932f0afd89948.mp4
+小二英语3,https://charge.zuoyebang.cc/record_0e4d3a78a2d4b6e51afa0b6b4db5f1b3.mp4
+初二语文6,https://charge.zuoyebang.cc/record_0e80d6b11a902dc8a8bb0b81568123e4.mp4
+初二物理3,ttps://charge.zuoyebang.cc/record_0f49089fb89e48c3e324dec003d24a00.mp4
+初三物理1,https://charge.zuoyebang.cc/record_107990582e64c7ac9d17aea36a27f2f5.mp4
+高二数学2,https://charge.zuoyebang.cc/record_11ed6637cb5917c63b4ae30d8d9ac3d4.mp4
+初三英语2,https://charge.zuoyebang.cc/record_13011ec8eb1cce187643c3aa840755b6.mp4
+小三数学1,https://charge.zuoyebang.cc/record_13313360bbb5d88e61c51c81a944d842.mp4
+高一化学5,https://charge.zuoyebang.cc/record_13d0d52f010bb12e37a320a408284735.mp4
+初一语文3,https://charge.zuoyebang.cc/record_13fd94a407009636a5c8331d7921f2b7.mp4
+小一英语3,https://charge.zuoyebang.cc/record_144758455ce97a78f8acdd72093adb03.mp4
+小六英语早读2,https://charge.zuoyebang.cc/record_147eb529897cc2fcc7b5c3ae054d41ff.mp4
+初三化学6,https://charge.zuoyebang.cc/record_1513469a7ed29f0cc15b3df1648210a4.mp4
+小五数学1,https://charge.zuoyebang.cc/record_158e8f7fef7c8c5bb62c32e298bf539a.mp4
+初一英语3,https://charge.zuoyebang.cc/record_16277ff4aba162226f3a0c7cc611229f.mp4
+小四语文6,https://charge.zuoyebang.cc/record_18e9d94c84206ed6821dcd31baadaa64.mp4
 体育频道,#genre#
 广东体育,http://nclive.grtn.cn/typd/sd/live.m3u8
 CCTV5体育,http://39.134.65.162/PLTV/88888888/224/3221225491/index.m3u8
