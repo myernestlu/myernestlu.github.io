@@ -6,7 +6,9 @@
 
 -----------------------------------------------
 打赏捐赠
-微信<a href="https://img.wenhairu.com/image/FBOTn"><img src="https://cdn.img.wenhairu.com/images/2020/04/02/FBOTn.th.png" alt="FBOTn.png" border="0" /></a>支付宝<a href="https://img.wenhairu.com/image/FBXaT"><img src="https://cdn.img.wenhairu.com/images/2020/04/02/FBXaT.th.jpg" alt="FBXaT.jpg" border="0" /></a>
+支付宝<a href="https://postimg.cc/CR7HZbjF" target="_blank"><img src="https://i.postimg.cc/CR7HZbjF/IMG-20200402-134802.jpg" alt="IMG-20200402-134802"/></a><br/><br/>
+微信<a href="https://postimg.cc/LYczdDMV" target="_blank"><img src="https://i.postimg.cc/LYczdDMV/mm-facetoface-collect-qrcode-1585805218129.png" alt="mm-facetoface-collect-qrcode-1585805218129"/></a><br/><br/>
+
 
 -----------------------------------------------
 联系邮箱:myernestlu@gmail.com
