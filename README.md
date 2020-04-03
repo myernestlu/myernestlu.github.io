@@ -17,6 +17,3 @@
 ------------------------------------------------------------
 联系邮箱:myernestlu@gmail.com
 
-
-
-<iframe src="//player.bilibili.com/player.html?aid=48612456&bvid=BV1Vb411u7Xk&cid=85129819&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
