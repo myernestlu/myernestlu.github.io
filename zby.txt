@@ -241,7 +241,7 @@ CHC电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
 户外Ⅰ帝师,http://3954.liveplay.myqcloud.com/live/3954_526644026.xs
 恐怖Ⅰ周杰伦FANS,http://tx2play1.douyucdn.cn/live/14317r1f7rx51rlN.xs
 恐怖Ⅰ狂鸟丶愿凡,http://aldirect.hls.huya.com/backsrc/33900931-33900931-145603389948952576-161483998-10057-A-0-1.m3u8
-福利频道_52pojie,#genre#
+福利频道,#genre#
 韩流ⅠKpop女团点播直播间,http://tx2play1.douyucdn.cn/live/329667r1tZ6GtOMy.xs
 韩流ⅠKpop女团竖屏,http://tx2play1.douyucdn.cn/live/7607642r2xQK2jRz.xs
 韩流Ⅰ【竖屏专用】精选女团,http://tx2play1.douyucdn.cn/live/3377456rjGZ6APrw.xs
