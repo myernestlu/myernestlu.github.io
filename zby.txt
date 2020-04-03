@@ -77,10 +77,10 @@ CCTV4国际欧洲,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctveurope_2/in
 CCTV4国际美洲,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctvamerica_2/index.m3u8
 CCTV7国防军事,http://ivi.bupt.edu.cn/hls/cctv7.m3u8
 CCTV9记录,http://ivi.bupt.edu.cn/hls/cctv9.m3u8
-CCTV6电影,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv6_2/index.m3u8#http://cctvalih5ca.v.myalicdn.com/live/cctv6_2/index.m3u8
+CCTV6电影,http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8#https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv6_2/index.m3u8#http://cctvalih5ca.v.myalicdn.com/live/cctv6_2/index.m3u8
 CCTV8电视剧,https://cctvcnch5ca.v.wscdns.com/live/cctv8_2/index.m3u8#https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv8_2/index.m3u8
 CCTV10科教,https://cctvalih5ca.v.myalicdn.com/live/cctv10_2/index.m3u8#https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv10_2/index.m3u8
-CCTV13新闻,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv13_2/index.m3u8
+CCTV13新闻,http://live.xcyun.net/video/s10001-XCTVSH/index.m3u8#https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv13_2/index.m3u8
 CCTV14少儿,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctvchild_2/index.m3u8#https://cctvalih5ca.v.myalicdn.com/live/cctvchild_2/index.m3u8
 CCTV15音乐,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv15_2/index.m3u8
 网课测试,#genre#
@@ -203,22 +203,6 @@ CHC电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
 电影Ⅰ24小时 喜剧 经典电影,http://3954.liveplay.myqcloud.com/live/3954_199681168.xs
 电影Ⅰ【小鸽陪看】动作 枪战 华语 经典,http://tx2play1.douyucdn.cn/live/3928r9p0BHMDG.xs
 网剧Ⅰ【爱情公寓】全程爆笑,http://3954.liveplay.myqcloud.com/live/3954_322842111.xs
-韩流ⅠKpop女团点播直播间,http://tx2play1.douyucdn.cn/live/329667r1tZ6GtOMy.xs
-韩流ⅠKpop女团竖屏,http://tx2play1.douyucdn.cn/live/7607642r2xQK2jRz.xs
-韩流Ⅰ【竖屏专用】精选女团,http://tx2play1.douyucdn.cn/live/3377456rjGZ6APrw.xs
-韩流Ⅰ专业女团【超万部女团】任你点,http://tx2play1.douyucdn.cn/live/340224rvlPw95tj0.xs
-韩流Ⅰ清晨醒脑！T-ARA根本停不下来！,http://tx2play1.douyucdn.cn/live/17732rtara.flv
-韩流Ⅰ【男团】精选韩国现场MMD饭拍MV,http://tx2play1.douyucdn.cn/live/455891rXsYZoSpib.xs
-韩流Ⅰ【韩国女团】高清写真,http://tx2play1.douyucdn.cn/live/6648727rvNv0bLvc.xs
-韩流Ⅰ全网唯一女团专属频道最全.最新8K视频,http://3954.liveplay.myqcloud.com/live/3954_40734637.xs
-韩流Ⅰ【女团】精选韩国现场饭拍MV,http://tx2play1.douyucdn.cn/live/231464rhOdShznSN.xs
-韩流Ⅰ超清KPOP现场,http://tx2play1.douyucdn.cn/live/7298478rk7h4n7Hw.xs
-韩流Ⅰ【24H女团】直拍,http://tx2play1.douyucdn.cn/live/222286rQc46L4cDY.xs
-韩流Ⅰ天下女团，想看什么自己点,http://tx2play1.douyucdn.cn/live/493589rHQV7CyGXo.xs
-韩流Ⅰ24小时女团,http://tx2play1.douyucdn.cn/live/1065432rXZP2wLrf.xs
-韩流Ⅰ高颜值女团-舞台名场面,http://aldirect.hls.huya.com/backsrc/1099531753530-1099531753530-86439455237341184-2199063630516-10057-A-0-1.m3u8
-韩流Ⅰ女团 久久钕团,http://tx2play1.douyucdn.cn/live/6852568rfgBwzfVz.xs
-韩流Ⅰ最强女团，没有之一,http://tx2play1.douyucdn.cn/live/211561rsZepL2Kbo.xs
 动漫Ⅰ晓妞动漫花园,http://tx2play1.douyucdn.cn/live/426517r0OFiuuQy7.xs
 动漫Ⅰ名侦探柯南 24H,http://3954.liveplay.myqcloud.com/live/3954_616512747.xs
 动漫Ⅰ苹果漫漫我们的童年,http://tx2play1.douyucdn.cn/live/1174353rslpQshvh.xs
@@ -262,3 +246,20 @@ Dream.三条,http://3954-f.liveplay.myqcloud.com/live/3954_382886558.xs
 户外Ⅰ帝师,http://3954.liveplay.myqcloud.com/live/3954_526644026.xs
 恐怖Ⅰ周杰伦FANS,http://tx2play1.douyucdn.cn/live/14317r1f7rx51rlN.xs
 恐怖Ⅰ狂鸟丶愿凡,http://aldirect.hls.huya.com/backsrc/33900931-33900931-145603389948952576-161483998-10057-A-0-1.m3u8
+福利频道_52pojie,#genre#
+韩流ⅠKpop女团点播直播间,http://tx2play1.douyucdn.cn/live/329667r1tZ6GtOMy.xs
+韩流ⅠKpop女团竖屏,http://tx2play1.douyucdn.cn/live/7607642r2xQK2jRz.xs
+韩流Ⅰ【竖屏专用】精选女团,http://tx2play1.douyucdn.cn/live/3377456rjGZ6APrw.xs
+韩流Ⅰ专业女团【超万部女团】任你点,http://tx2play1.douyucdn.cn/live/340224rvlPw95tj0.xs
+韩流Ⅰ清晨醒脑！T-ARA根本停不下来！,http://tx2play1.douyucdn.cn/live/17732rtara.flv
+韩流Ⅰ【男团】精选韩国现场MMD饭拍MV,http://tx2play1.douyucdn.cn/live/455891rXsYZoSpib.xs
+韩流Ⅰ【韩国女团】高清写真,http://tx2play1.douyucdn.cn/live/6648727rvNv0bLvc.xs
+韩流Ⅰ全网唯一女团专属频道最全.最新8K视频,http://3954.liveplay.myqcloud.com/live/3954_40734637.xs
+韩流Ⅰ【女团】精选韩国现场饭拍MV,http://tx2play1.douyucdn.cn/live/231464rhOdShznSN.xs
+韩流Ⅰ超清KPOP现场,http://tx2play1.douyucdn.cn/live/7298478rk7h4n7Hw.xs
+韩流Ⅰ【24H女团】直拍,http://tx2play1.douyucdn.cn/live/222286rQc46L4cDY.xs
+韩流Ⅰ天下女团，想看什么自己点,http://tx2play1.douyucdn.cn/live/493589rHQV7CyGXo.xs
+韩流Ⅰ24小时女团,http://tx2play1.douyucdn.cn/live/1065432rXZP2wLrf.xs
+韩流Ⅰ高颜值女团-舞台名场面,http://aldirect.hls.huya.com/backsrc/1099531753530-1099531753530-86439455237341184-2199063630516-10057-A-0-1.m3u8
+韩流Ⅰ女团 久久钕团,http://tx2play1.douyucdn.cn/live/6852568rfgBwzfVz.xs
+韩流Ⅰ最强女团，没有之一,http://tx2play1.douyucdn.cn/live/211561rsZepL2Kbo.xs
