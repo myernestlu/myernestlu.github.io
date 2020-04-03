@@ -7,6 +7,7 @@
 东方卫视,http://ivi.bupt.edu.cn/hls/dfhd.m3u8
 湖北卫视,http://ivi.bupt.edu.cn/hls/hbtv.m3u8#http://live.cjyun.org/hubeitv/s10008-live-hbws.m3u8
 厦门卫视,http://by4.nty.tv189.cn/live/tm-xiamentv-800k.m3u8#http://cstvpull.live.wscdns.com/live/xiamen.flv
+厦门一套,http://cstvpull.live.wscdns.com/live/xiamen1.flv
 青海卫视,http://ivi.bupt.edu.cn/hls/qhtv.m3u8
 海霞卫视,http://by4.nty.tv189.cn/live/tm-haixiatv-800k.m3u8
 江西卫视,http://ivi.bupt.edu.cn/hls/jxtv.m3u8
@@ -38,9 +39,11 @@
 台湾壹新闻,https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8
 香港23新闻台,https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c.m3u8
 新U频道,https://d3inlz9elsutjl.cloudfront.net:443/hls/chuctv/master02.m3u8
+C+频道,https://ottproxy2.mott.tv/livehls:cmi/MOB-U1-NO/index.m3u8
 韩国MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-星空卫视,rtmp://58.200.131.2:1935/livetv/startv
+星空卫视,rtmp://58.200.131.2:1935/livetv/startv#rtmp://ivi.bupt.edu.cn:1935/livetv/startv
 阳光卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226121/1.m3u8#http://121.31.30.90:8085/ysten-business/live/yangguangstv/1.m3u8
+公視3台,https://usb.bozztv.com/ssh101/PTSTV3HD/PTSTV3HD/playlist.m3u8
 东森洋片,http://192.154.103.75:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
 凤凰中文,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
@@ -49,7 +52,21 @@
 台湾壹新闻,https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8
 东森电影,http://192.154.103.75:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
 东森新闻,http://pull.scphsd.com/live/de40860438e011bfaf85f4b32af7e924/playlist.m3u8#http://192.154.103.75:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
-澳门莲花卫视,http://live-rtmp.macaulotustv.com/lotustv/5562e9e4d409d24c9600075c.m3u8
+鳳凰衛視資訊台,http://24tl.qingk.cn/live/fhzx889.flv
+鳳凰衛視中文台,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8
+香港開電視,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+英皇娛樂台,https://ottproxy2.mott.tv/livehls:cmi/MOB-U1-NO/03.m3u8
+人間衛視,http://54.64.23.79:1935/live/vod/playlist.m3u8
+靖天映畫,http://61.58.60.230:9319/live/244.m3u8
+靖洋卡通台,http://61.58.60.230:9319/live/206.m3u8
+靖天卡通台,http://61.58.60.230:9319/live/207.m3u8
+靖天國際台,http://61.58.60.230:9319/live/205.m3u8
+靖天育樂台,http://61.58.60.230:9319/live/204.m3u8
+靖天資訊台,http://61.58.60.230:9319/live/202.m3u8
+大愛一臺HD,http://tv1.wanfudaluye.com/live/live.m3u8
+大愛二臺HD,http://tv2.wanfudaluye.com/live/live.m3u8
+靖天戲劇台,http://61.58.60.230:9319/live/203.m3u8
+靖天日本台,http://61.58.60.230:9319/live/243.m3u8
 央视频道,#genre#
 CCTV1综合,http://live-temp-litchi-hls-yf.jstv.com/live/zhibo-cctv1gq/online.m3u8
 CCTV3综艺,http://ivi.bupt.edu.cn/hls/cctv3.m3u8
@@ -142,6 +159,7 @@ CCTV新科动漫,http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2_hd
 广东少儿,http://nclive.grtn.cn/tvs5/sd/live.m3u8
 福州少儿,http://live1.fzntv.cn/live/zohi_fztv4/playlist.m3u8
 优漫卡通,rtmp://ivi.bupt.edu.cn/livetv/ymkttv#http://by4.nty.tv189.cn/live/tm-jsymktty-800k.m3u8
+CH5 卡通,http://live.streamingfast.net/osmflivech45.m3u8
 南京少儿,http://live.nbs.cn/channels/njtv/sepd/flv:500k/live
 武汉少儿,http://stream.appwuhan.com/7tzb/sd/live.m3u8
 甘肃少儿,http://stream.gstv.com.cn/sepd/sd/live.m3u8
@@ -153,6 +171,8 @@ BTV卡酷少儿,http://by4.nty.tv189.cn/tm-kaku-800k.m3u8#http://ivi.bupt.edu.cn
 浙江少儿,http://yf.m.l.cztv.com/channels/lantian/channel08/360p.m3u8
 天津少儿,http://112.240.60.81/live2.wisetv.com.cn/TJIPTV/TJSE/playlist.m3u8?wsSession=-
 综合影视,#genre#
+NHK华语视界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+CHC家庭影院,rtmp://ivi.bupt.edu.cn:1935/livetv/chctv
 周末影院,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_fengxiaogang_1080p_t10/c16_lb_fengxiaogang_1080p_t10.m3u8
 动作电影,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_dongzuodianying_1080p_t10/c16_lb_dongzuodianying_1080p_t10.m3u8
 经典港片,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_jingdianguangpian_1080p_t10/c15_lb_jingdianguangpian_1080p_t10.m3u8
