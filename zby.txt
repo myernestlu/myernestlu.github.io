@@ -131,6 +131,8 @@ BTV6纪实,http://by4.nty.tv189.cn/tm-btvjishihd-4000k.m3u8
 动画电影,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_donghuadianying_1080p_t10/c16_lb_donghuadianying_1080p_t10.m3u8
 喜羊羊与灰太狼,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_xiyangyang_1080p_t10/c15_lb_xiyangyang_1080p_t10.m3u8
 哆啦A梦,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_duolaameng_1080p_t10/c15_lb_duolaameng_1080p_t10.m3u8
+喜羊羊,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_xiyangyang_1080p_t10/c15_lb_xiyangyang_1080p_t10.m3u8
+名侦探柯南,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_mingzhentankenan_1080p_t10/c15_lb_mingzhentankenan_1080p_t10.m3u8
 爱动漫,http://101.71.255.229:6610/zjhs/2/10107/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 靖天卡通,http://61.58.60.230:9319/live/207.m3u8
 CINB动漫,http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_chan_hls_se_idx=032&Provider_id=&Pcontent_id=index.m3u8
@@ -204,9 +206,6 @@ CHC电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
 动漫Ⅰ奥特曼合集,http://3954.liveplay.myqcloud.com/live/3954_10848286.xs
 动漫Ⅰ懒猫看动漫,https://flv-qqplay.inter.71edge.com/liveugc/rqy_tzadah4d.flv
 动漫Ⅰ【MZ】名侦探柯南-真相永远只有一个！,https://flv-qqplay.inter.71edge.com/liveugc/rqy_5zr4gy0y.flv
-哆啦A梦,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_duolaameng_1080p_t10/c15_lb_duolaameng_1080p_t10.m3u8
-喜羊羊,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_xiyangyang_1080p_t10/c15_lb_xiyangyang_1080p_t10.m3u8
-名侦探柯南,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_mingzhentankenan_1080p_t10/c15_lb_mingzhentankenan_1080p_t10.m3u8
 恐怖影院,#genre#
 【MZ】林正英鬼片,https://flv-qqplay.inter.71edge.com/liveugc/rqy_u2a2xsn4.flv
 【英叔护体】全天 僵尸 鬼片 恐怖电影,http://3954.liveplay.myqcloud.com/live/3954_363783415.xs
