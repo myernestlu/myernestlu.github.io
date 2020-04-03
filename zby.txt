@@ -31,14 +31,12 @@
 南方卫视,http://nclive.grtn.cn/tvs2/sd/live.m3u8
 新港澳台,#genre#
 香港hks,http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xianggangweishi_2_hd.m3u8
-无线新闻,http://cczylive.chuangwanghulian.cn/live/zy_1531983996445.flv?auth_key=1593500458-57590819-0-3bc1f0bf55895038da448c64a71d09f1
 澳门互动新闻台,http://202.175.127.77/live/show/ch2/index.m3u8
 凤凰卫视资讯,http://qlive.fengshows.cn/live720p/PIN.flv?txSecret=3de72b2a2ab4c44574d7202d9c7281bb&txTime=5e6f5cde
-非凡新闻HD,http://104.233.176.70:13164/v/gttv.php?token=8HU%2B3MD%2Fco%2Fzu5wmQgqEuhcd&id=ffxinwen
-中视HD,http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
-华视CTS,http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8
-台湾壹新闻,https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8
 香港23新闻台,https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c.m3u8
+华视CTS,http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8
+中视HD,http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
+台湾壹新闻,https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8
 新U频道,https://d3inlz9elsutjl.cloudfront.net:443/hls/chuctv/master02.m3u8
 C+频道,https://ottproxy2.mott.tv/livehls:cmi/MOB-U1-NO/index.m3u8
 韩国MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
@@ -52,8 +50,6 @@ C+频道,https://ottproxy2.mott.tv/livehls:cmi/MOB-U1-NO/index.m3u8
 八大综合,http://192.154.103.75:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
 中天综合,http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 台湾壹新闻,https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8
-东森电影,http://192.154.103.75:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
-东森新闻,http://pull.scphsd.com/live/de40860438e011bfaf85f4b32af7e924/playlist.m3u8#http://192.154.103.75:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
 鳳凰衛視資訊台,http://24tl.qingk.cn/live/fhzx889.flv
 鳳凰衛視中文台,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8
 香港開電視,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
