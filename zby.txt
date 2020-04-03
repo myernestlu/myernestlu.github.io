@@ -230,7 +230,7 @@ CHC电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
 【小y】《小品、相声》,http://3954.liveplay.myqcloud.com/live/3954_164540838.xs
 生存美食,#genre#
 【艾德 贝尔】24小时直播,http://tx2play1.douyucdn.cn/live/454867r0fGitJm8u.xs
-荒野求生,德哥贝爷夫妻档,http://3954.liveplay.myqcloud.com/live/3954_577368917.xs
+荒野求生-德哥贝爷夫妻档,http://3954.liveplay.myqcloud.com/live/3954_577368917.xs
 歪果仁带你探访全球美食,http://3954-f.liveplay.myqcloud.com/live/3954_306285953.xs
 高分超清纪录片集锦,http://3954-f.liveplay.myqcloud.com/live/3954_417299409.xs
 综合游戏,#genre#
