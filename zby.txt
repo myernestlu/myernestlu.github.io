@@ -139,6 +139,7 @@ D体育,http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 精品体育,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226328/1.m3u8
 博斯网球,http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
 广东体育,http://nclive.grtn.cn/typd/sd/live.m3u8
+广州竞赛,http://aplay.gztv.com/sec/jingsai.m3u8
 CCTV5体育,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000205103.m3u8#http://39.134.65.162/PLTV/88888888/224/3221225491/index.m3u8
 CCTV5+体育,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000204503.m3u8#http://104.233.176.70:13164/v/cctv.php?id=2000204503.m3u8
 BTV6纪实,http://by4.nty.tv189.cn/tm-btvjishihd-4000k.m3u8
