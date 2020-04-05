@@ -184,7 +184,10 @@ CHC电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
 动漫Ⅰ名侦探柯南 24H,http://3954.liveplay.myqcloud.com/live/3954_616512747.xs
 动漫Ⅰ【动漫】热血 木叶忍者 草帽路飞 青春,http://tx2play1.douyucdn.cn/live/206858rtestxjl.xs
 动漫Ⅰ奥特曼合集,http://3954.liveplay.myqcloud.com/live/3954_10848286.xs
+动漫Ⅰ【爱迪】宇宙英雄奥特曼,http://3954.liveplay.myqcloud.com/live/3954_161415327.xs
 恐怖影院,#genre#
+恐怖 惊悚 动作 科幻 喜剧,http://3954.liveplay.myqcloud.com/live/3954_504525571.xs
+僵尸鬼片动作搞笑武侠,http://3954.liveplay.myqcloud.com/live/3954_157023183.xs
 【MZ】林正英鬼片,https://flv-qqplay.inter.71edge.com/liveugc/rqy_u2a2xsn4.flv
 【英叔护体】全天 僵尸 鬼片 恐怖电影,http://3954.liveplay.myqcloud.com/live/3954_363783415.xs
 【林正英】僵尸 女鬼 弹幕 护体,http://tx2play1.douyucdn.cn/live/218859rLZx61rcDy.xs
