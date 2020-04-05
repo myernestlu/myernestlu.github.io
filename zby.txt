@@ -3,7 +3,7 @@
 浙江卫视,http://ali.m.l.cztv.com/channels/lantian/channel01/720p.m3u8
 安徽卫视,https://cctvtxyh5ca.liveplay.myqcloud.com/wstv/anhui_2/index.m3u8#https://cctvtxyh5ca.liveplay.myqcloud.com/wstv/anhui_2/index.m3u8
 宁夏卫视,http://cctvalih5ca.v.myalicdn.com/wstv/ningxia_2/index.m3u8
-辽宁卫视,http://wstvalic.v.myalicdn.com/wstv/liaoning_1/index.m3u8#http://by4.nty.tv189.cn/tm-liaoninghd-800k.m3u8#https://cctvtxyh5ca.liveplay.myqcloud.com/wstv/liaoning_2/index.m3u8
+辽宁卫视,http://by4.nty.tv189.cn/tm-liaoninghd-800k.m3u8#https://cctvtxyh5ca.liveplay.myqcloud.com/wstv/liaoning_2/index.m3u8
 东方卫视,http://ivi.bupt.edu.cn/hls/dfhd.m3u8
 湖北卫视,http://ivi.bupt.edu.cn/hls/hbtv.m3u8#http://live.cjyun.org/hubeitv/s10008-live-hbws.m3u8
 厦门卫视,http://by4.nty.tv189.cn/live/tm-xiamentv-800k.m3u8#http://cstvpull.live.wscdns.com/live/xiamen.flv
@@ -167,44 +167,23 @@ BTV卡酷少儿,http://by4.nty.tv189.cn/tm-kaku-800k.m3u8#http://ivi.bupt.edu.cn
 天津少儿,http://112.240.60.81/live2.wisetv.com.cn/TJIPTV/TJSE/playlist.m3u8?wsSession=-
 综合影视,#genre#
 NHK华语视界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-CHC家庭影院,rtmp://ivi.bupt.edu.cn:1935/livetv/chctv
 周末影院,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_fengxiaogang_1080p_t10/c16_lb_fengxiaogang_1080p_t10.m3u8
 动作电影,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_dongzuodianying_1080p_t10/c16_lb_dongzuodianying_1080p_t10.m3u8
-经典港片,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_jingdianguangpian_1080p_t10/c15_lb_jingdianguangpian_1080p_t10.m3u8
 CIBN电影,http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_chan_hls_se_idx=033&Provider_id=&Pcontent_id=index.m3u8
-五星影院,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_wuxingyingyuan_1080p_t10/c15_lb_wuxingyingyuan_1080p_t10.m3u8
 CHC电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
-黑帮电影,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_heibangdianying_1080p_t10/c16_lb_heibangdianying_1080p_t10.m3u8
 电影Ⅰ周星驰经典轮播,http://3954.liveplay.myqcloud.com/live/3954_382995145.xs
-电影Ⅰ【4K超清】七七陪你看电影!,http://tx2play1.douyucdn.cn/live/925724reTf5A0oyK.xs
-电影Ⅰ粤语片成龙洪金宝再现港片经典[24h],https://lvo-live.youku.com/vod2live/03000700005CACE3B173FEA330EC2DBB6D42B3-B932-464D-8DCC-E820CFF5DA5D-1-110-LIVE-302-0324-0240-04181_mp4hd2v3.m3u8?title=%E7%B2%A4%E8%AF%AD%E7%89%87%E6%88%90%E9%BE%99%E6%B4%AA%E9%87%91%E5%AE%9D%E5%86%8D%E7%8E%B0%E6%B8%AF%E7%89%87%E7%BB%8F%E5%85%B8%5B24h%5D&ver=1.0.0&uid=0&log_type=log_type&aliyun_uuid=7qmZFiyaOA4CAXMxZYEMc1YJ&cdnQuality=720p&quality=4&multi_raw_stream=03000700005CACE3B173FEA330EC2DBB6D42B3-B932-464D-8DCC-E820CFF5DA5D-1-110-LIVE-302-0324-0240-04181&ccode=live05010101&expire=21600&psid=D83B141887E296F24BF75DC6B148E2E5&ups_client_netip=115.49.101.101&ups_ts=1585747910&ups_userid=0&utid=7qmZFiyaOA4CAXMxZYEMc1YJ&vid=8018617_8022912&fn=03000700005CACE3B173FEA330EC2DBB6D42B3-B932-464D-8DCC-E820CFF5DA5D-1-110-LIVE-302-0324-0240-04181_mp4hd2v3&vkey=B31d263b34b4a09599bd44c112420fc85
-电影Ⅰ粤语【周星驰】【林正英】,http://tx2play1.douyucdn.cn/live/5033502rWnRpioJO.xs
-电影Ⅰ豆宝陪看 高分电影直播间,http://tx2play1.douyucdn.cn/live/8058642rnpW7SgfT.xs
-电影Ⅰ小饼 高分影视放映厅,http://tx2play1.douyucdn.cn/live/1735337rTJDYynut.xs
-电影Ⅰ【不是动图的萌萌小鸭】陪你一起看鸭,http://tx2play1.douyucdn.cn/live/7925840rMl7UmNpu.xs
-电影Ⅰ【香港赌片】喜剧、黑帮、动作、武侠、经典,http://tx2play1.douyucdn.cn/live/315457ruOP2SGd6y.xs
-电影Ⅰ【s1134】经典 科幻 动作 灾难,http://tx2play1.douyucdn.cn/live/248753re3yVCkP0H.xs
 电影Ⅰ经典 科幻 动作 灾难 巨兽,http://tx2play1.douyucdn.cn/live/252802rbQGaZXUQi.xs
 电影Ⅰ【周星驰】星爷 华语 经典 电影 神乐,http://tx2play1.douyucdn.cn/live/122402rK7MO9bXSq.xs
 电影Ⅰ【神乐】华语 经典 电影 刘德华 周星驰,http://tx2play1.douyucdn.cn/live/85894rmovieChow.xs
-奥斯卡经典电影精彩播不停[24h],https://lvo-live.youku.com/vod2live/03000700005CACE3B173FEA330EC2DBB6D42B3-B932-464D-8DCC-E820CFF5DA5D-1-110-LIVE-294-0324-0240-0088_mp4hd2v3.m3u8?title=%E5%A5%A5%E6%96%AF%E5%8D%A1%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1%E7%B2%BE%E5%BD%A9%E6%92%AD%E4%B8%8D%E5%81%9C%5B24h%5D&ver=1.0.0&uid=0&log_type=log_type&aliyun_uuid=7qmZFiyaOA4CAXMxZYEMc1YJ&cdnQuality=720p&quality=4&multi_raw_stream=03000700005CACE3B173FEA330EC2DBB6D42B3-B932-464D-8DCC-E820CFF5DA5D-1-110-LIVE-294-0324-0240-0088&ccode=live05010101&expire=21600&psid=3962FDD531B9090EAAB9DBE31DEF8DFC&ups_client_netip=115.49.101.101&ups_ts=1585747731&ups_userid=0&utid=7qmZFiyaOA4CAXMxZYEMc1YJ&vid=8018655_8022948&fn=03000700005CACE3B173FEA330EC2DBB6D42B3-B932-464D-8DCC-E820CFF5DA5D-1-110-LIVE-294-0324-0240-0088_mp4hd2v3&vkey=Be5bd6344c8b425b260da67e47014faa2
-电影Ⅰ每晚悄悄话,http://tx2play1.douyucdn.cn/live/6557037rnQ70MGFS.xs
 电影Ⅰ【贝爷影厅】经典 科幻 动作 灾难 巨兽,http://tx2play1.douyucdn.cn/live/252802rbQGaZXUQi.xs
 电影Ⅰ可乐 欧美 电影 科幻 经典 动作,http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K.xs
 电影Ⅰ你想看的这里都有！24小时,http://3954.liveplay.myqcloud.com/live/3954_535854350.xs
 电影Ⅰ24小时 喜剧 经典电影,http://3954.liveplay.myqcloud.com/live/3954_199681168.xs
 电影Ⅰ【小鸽陪看】动作 枪战 华语 经典,http://tx2play1.douyucdn.cn/live/3928r9p0BHMDG.xs
 网剧Ⅰ【爱情公寓】全程爆笑,http://3954.liveplay.myqcloud.com/live/3954_322842111.xs
-动漫Ⅰ晓妞动漫花园,http://tx2play1.douyucdn.cn/live/426517r0OFiuuQy7.xs
 动漫Ⅰ名侦探柯南 24H,http://3954.liveplay.myqcloud.com/live/3954_616512747.xs
-动漫Ⅰ苹果漫漫我们的童年,http://tx2play1.douyucdn.cn/live/1174353rslpQshvh.xs
 动漫Ⅰ【动漫】热血 木叶忍者 草帽路飞 青春,http://tx2play1.douyucdn.cn/live/206858rtestxjl.xs
-动漫Ⅰ中华小当家：美食之旅,http://aldirect.hls.huya.com/backsrc/29106097-2686804038-11539735473970741248-2777036638-10057-A-1524192214-1.m3u8
-动漫Ⅰ很优美,http://tx2play1.douyucdn.cn/live/7528160rdLbJPmfK.xs
-动漫Ⅰ蜡笔小新,https://flv-aliplay.inter.71edge.com/liveugc/rqy_q0tzjh3b.flv
 动漫Ⅰ奥特曼合集,http://3954.liveplay.myqcloud.com/live/3954_10848286.xs
-动漫Ⅰ懒猫看动漫,https://flv-qqplay.inter.71edge.com/liveugc/rqy_tzadah4d.flv
-动漫Ⅰ【MZ】名侦探柯南-真相永远只有一个！,https://flv-qqplay.inter.71edge.com/liveugc/rqy_5zr4gy0y.flv
 恐怖影院,#genre#
 【MZ】林正英鬼片,https://flv-qqplay.inter.71edge.com/liveugc/rqy_u2a2xsn4.flv
 【英叔护体】全天 僵尸 鬼片 恐怖电影,http://3954.liveplay.myqcloud.com/live/3954_363783415.xs
@@ -216,7 +195,6 @@ CHC电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
 恐怖影院 请关灯后食用！,http://tx2play1.douyucdn.cn/live/5872811rt9j2RfKQ.xs
 童年阴影 女鬼 僵尸 恐怖 英叔,http://tx2play1.douyucdn.cn/live/2935323rXkfdGxOz.xs
 相声小品,#genre#
-相声小品,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_xiangshengxiaopin_1080p_t10/c15_lb_xiangshengxiaopin_1080p_t10.m3u8
 历史秘闻,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_lishimiwen_1080p_t10/c15_lb_lishimiwen_1080p_t10.m3u8
 喜剧大咖,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_xijudaka_1080p_t10/c15_lb_xijudaka_1080p_t10.m3u8
 德云社 郭德纲 相声专场 陪你看,http://3954.liveplay.myqcloud.com/live/3954_468780224.xs
@@ -225,9 +203,7 @@ CHC电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
 【小京陪看】德云社郭德纲相声,http://3954.liveplay.myqcloud.com/live/3954_202452345.xs
 【小y】《小品、相声》,http://3954.liveplay.myqcloud.com/live/3954_164540838.xs
 生存美食,#genre#
-【艾德 贝尔】24小时直播,http://tx2play1.douyucdn.cn/live/454867r0fGitJm8u.xs
 荒野求生-德哥贝爷夫妻档,http://3954.liveplay.myqcloud.com/live/3954_577368917.xs
-歪果仁带你探访全球美食,http://3954-f.liveplay.myqcloud.com/live/3954_306285953.xs
 高分超清纪录片集锦,http://3954-f.liveplay.myqcloud.com/live/3954_417299409.xs
 综合游戏,#genre#
 纯黑GK,http://3954.liveplay.myqcloud.com/live/3954_700746795.xs
@@ -242,19 +218,5 @@ CHC电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
 恐怖Ⅰ周杰伦FANS,http://tx2play1.douyucdn.cn/live/14317r1f7rx51rlN.xs
 恐怖Ⅰ狂鸟丶愿凡,http://aldirect.hls.huya.com/backsrc/33900931-33900931-145603389948952576-161483998-10057-A-0-1.m3u8
 福利频道,#genre#
-韩流ⅠKpop女团点播直播间,http://tx2play1.douyucdn.cn/live/329667r1tZ6GtOMy.xs
-韩流ⅠKpop女团竖屏,http://tx2play1.douyucdn.cn/live/7607642r2xQK2jRz.xs
-韩流Ⅰ【竖屏专用】精选女团,http://tx2play1.douyucdn.cn/live/3377456rjGZ6APrw.xs
-韩流Ⅰ专业女团【超万部女团】任你点,http://tx2play1.douyucdn.cn/live/340224rvlPw95tj0.xs
 韩流Ⅰ清晨醒脑！T-ARA根本停不下来！,http://tx2play1.douyucdn.cn/live/17732rtara.flv
-韩流Ⅰ【男团】精选韩国现场MMD饭拍MV,http://tx2play1.douyucdn.cn/live/455891rYHVfXpddb.xs
-韩流Ⅰ【韩国女团】高清写真,http://tx2play1.douyucdn.cn/live/6648727rvNv0bLvc.xs
 韩流Ⅰ全网唯一女团专属频道最全.最新8K视频,http://3954.liveplay.myqcloud.com/live/3954_40734637.xs
-韩流Ⅰ【女团】精选韩国现场饭拍MV,http://tx2play1.douyucdn.cn/live/231464rhOdShznSN.xs
-韩流Ⅰ超清KPOP现场,http://tx2play1.douyucdn.cn/live/7298478rk7h4n7Hw.xs
-韩流Ⅰ【24H女团】直拍,http://tx2play1.douyucdn.cn/live/222286rQc46L4cDY.xs
-韩流Ⅰ天下女团，想看什么自己点,http://tx2play1.douyucdn.cn/live/493589rHQV7CyGXo.xs
-韩流Ⅰ24小时女团,http://tx2play1.douyucdn.cn/live/1065432rLCPq5tmF.xs
-韩流Ⅰ高颜值女团-舞台名场面,http://aldirect.hls.huya.com/backsrc/1099531753530-1099531753530-86439455237341184-2199063630516-10057-A-0-1.m3u8
-韩流Ⅰ女团 久久钕团,http://tx2play1.douyucdn.cn/live/6852568rfgBwzfVz.xs
-韩流Ⅰ最强女团，没有之一,http://tx2play1.douyucdn.cn/live/211561rsZepL2Kbo.xs
