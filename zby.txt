@@ -7,8 +7,8 @@
 东方卫视,http://ivi.bupt.edu.cn/hls/dfhd.m3u8
 湖北卫视,http://ivi.bupt.edu.cn/hls/hbtv.m3u8#http://live.cjyun.org/hubeitv/s10008-live-hbws.m3u8
 厦门卫视,http://by4.nty.tv189.cn/live/tm-xiamentv-800k.m3u8#http://cstvpull.live.wscdns.com/live/xiamen.flv
-厦门一套,http://cstvpull.live.wscdns.com/live/xiamen1.flv
 青海卫视,http://ivi.bupt.edu.cn/hls/qhtv.m3u8
+厦门一套,http://cstvpull.live.wscdns.com/live/xiamen1.flv
 海霞卫视,http://by4.nty.tv189.cn/live/tm-haixiatv-800k.m3u8
 江西卫视,http://ivi.bupt.edu.cn/hls/jxtv.m3u8
 天津卫视,http://ivi.bupt.edu.cn/hls/tjtv.m3u8
@@ -29,20 +29,6 @@
 长沙影视,https://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_350.m3u8
 北京影视,http://by4.nty.tv189.cn/live/tm-btv4-800k.m3u8
 南方卫视,http://nclive.grtn.cn/tvs2/sd/live.m3u8
-央视频道,#genre#
-CCTV1综合,http://live-temp-litchi-hls-yf.jstv.com/live/zhibo-cctv1gq/online.m3u8
-CCTV3综艺,http://ivi.bupt.edu.cn/hls/cctv3.m3u8
-CCTV4国际亚洲,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv4_2/index.m3u8#http://ivi.bupt.edu.cn/hls/cctv4.m3u8
-CCTV4国际欧洲,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctveurope_2/index.m3u8
-CCTV4国际美洲,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctvamerica_2/index.m3u8
-CCTV7国防军事,http://ivi.bupt.edu.cn/hls/cctv7.m3u8
-CCTV9记录,http://ivi.bupt.edu.cn/hls/cctv9.m3u8
-CCTV6电影,http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8#https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv6_2/index.m3u8#http://cctvalih5ca.v.myalicdn.com/live/cctv6_2/index.m3u8
-CCTV8电视剧,https://cctvcnch5ca.v.wscdns.com/live/cctv8_2/index.m3u8#https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv8_2/index.m3u8
-CCTV10科教,https://cctvalih5ca.v.myalicdn.com/live/cctv10_2/index.m3u8#https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv10_2/index.m3u8
-CCTV13新闻,http://live.xcyun.net/video/s10001-XCTVSH/index.m3u8#https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv13_2/index.m3u8
-CCTV14少儿,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctvchild_2/index.m3u8#https://cctvalih5ca.v.myalicdn.com/live/cctvchild_2/index.m3u8
-CCTV15音乐,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv15_2/index.m3u8
 新港澳台,#genre#
 香港hks,http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xianggangweishi_2_hd.m3u8
 澳门互动新闻台,http://202.175.127.77/live/show/ch2/index.m3u8
@@ -56,7 +42,7 @@ CCTV15音乐,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv15_2/index.m3u8
 阳光卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226121/1.m3u8#http://121.31.30.90:8085/ysten-business/live/yangguangstv/1.m3u8
 东森洋片,http://192.154.103.75:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
 凤凰中文,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 八大综合,http://192.154.103.75:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
 中天综合,http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 台湾壹新闻,https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8
@@ -75,53 +61,31 @@ CCTV15音乐,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv15_2/index.m3u8
 大愛二臺HD,http://tv2.wanfudaluye.com/live/live.m3u8
 靖天戲劇台,http://61.58.60.230:9319/live/203.m3u8
 靖天日本台,http://61.58.60.230:9319/live/243.m3u8
+央视频道,#genre#
+CCTV1综合高清,http://live-temp-litchi-hls-yf.jstv.com/live/zhibo-cctv1gq/online.m3u8
+CCTV3综艺,http://ivi.bupt.edu.cn/hls/cctv3.m3u8
+CCTV4国际亚洲,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv4_2/index.m3u8#http://ivi.bupt.edu.cn/hls/cctv4.m3u8
+CCTV4国际欧洲,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctveurope_2/index.m3u8
+CCTV4国际美洲,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctvamerica_2/index.m3u8
+CCTV7国防军事,http://ivi.bupt.edu.cn/hls/cctv7.m3u8
+CCTV9记录,http://ivi.bupt.edu.cn/hls/cctv9.m3u8
+CCTV6电影高清,http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8#https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv6_2/index.m3u8#http://cctvalih5ca.v.myalicdn.com/live/cctv6_2/index.m3u8
+CCTV8电视剧,https://cctvcnch5ca.v.wscdns.com/live/cctv8_2/index.m3u8#https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv8_2/index.m3u8
+CCTV10科教,https://cctvalih5ca.v.myalicdn.com/live/cctv10_2/index.m3u8#https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv10_2/index.m3u8
+CCTV13新闻,http://live.xcyun.net/video/s10001-XCTVSH/index.m3u8#https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv13_2/index.m3u8
+CCTV14少儿,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctvchild_2/index.m3u8#https://cctvalih5ca.v.myalicdn.com/live/cctvchild_2/index.m3u8
+CCTV15音乐,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv15_2/index.m3u8
 网课测试,#genre#
-腾讯一年级,https://live-edu.wasu.tv/live/QiEFuDao-lv1.m3u8
-腾讯高一,https://live-edu.wasu.tv/live/QiEFuDao-lv10.m3u8
-腾讯高二,https://live-edu.wasu.tv/live/QiEFuDao-lv11.m3u8
-腾讯高三,https://live-edu.wasu.tv/live/QiEFuDao-lv12.m3u8
-腾讯二年级,https://live-edu.wasu.tv/live/QiEFuDao-lv2.m3u8
-腾讯三年级,https://live-edu.wasu.tv/live/QiEFuDao-lv3.m3u8
-腾讯四年级,https://live-edu.wasu.tv/live/QiEFuDao-lv4.m3u8
-腾讯五年级,https://live-edu.wasu.tv/live/QiEFuDao-lv5.m3u8
-腾讯六年级,https://live-edu.wasu.tv/live/QiEFuDao-lv6.m3u8
-腾讯初一,https://live-edu.wasu.tv/live/QiEFuDao-lv7.m3u8
-腾讯初二,https://live-edu.wasu.tv/live/QiEFuDao-lv8.m3u8
-腾讯初三,https://live-edu.wasu.tv/live/QiEFuDao-lv9.m3u8
-初二英语1,https://charge.zuoyebang.cc/record_005603d0e9b43710dabf82f648a53bbd.mp4
-初二英语5,https://charge.zuoyebang.cc/record_012557ac4f3b050fcca197ff4427c5a5.mp4
-小一英语1,https://charge.zuoyebang.cc/record_025a0712f50cb90fb3f67eed1fa64fc5.mp4
-高一地理2,https://charge.zuoyebang.cc/record_02f68c3aa1f2fce91fe93cc697d9665f.mp4
-高一语文5,https://charge.zuoyebang.cc/record_057f7235b64300448b8d1e70b1bc2ff3.mp4
-小六英语3,https://charge.zuoyebang.cc/record_05e880d21ec77727b1710a68210ad535.mp4
-初三物理3,https://charge.zuoyebang.cc/record_07790cba532d3064f1d12d2b57ca837b.mp4
-小一数学4,https://charge.zuoyebang.cc/record_07797cf5a8c46ce2e82c8f555c7fb98d.mp4
-高一数学7,https://charge.zuoyebang.cc/record_09901223755ddff933c34a7c8c4026d9.mp4
-初三语文4,https://charge.zuoyebang.cc/record_0a414cbdcc0eb044c02f33bec1e9a66e.mp4
-小一数学2,https://charge.zuoyebang.cc/record_0a4f45f7ac17b5e7ab3b954fc3e70705.mp4
-小四数学3.https://charge.zuoyebang.cc/record_0caf5ab0ead258a9fb74d2d65ad436e0.mp4
-高二语文1,https://charge.zuoyebang.cc/record_0df7d0850cabcace912932f0afd89948.mp4
-小二英语3,https://charge.zuoyebang.cc/record_0e4d3a78a2d4b6e51afa0b6b4db5f1b3.mp4
-初三英语3,https://charge.zuoyebang.cc/record_d5cec177c52e7aa9d8c98401817fd0c5.mp4
-小四语文2,https://charge.zuoyebang.cc/record_d61c936f23a95209f25770f03c438e50.mp4
-小三英语4,https://charge.zuoyebang.cc/record_d62ccbe97cb05f4d5f38a7549b36d873.mp4
-初二语文6,https://charge.zuoyebang.cc/record_0e80d6b11a902dc8a8bb0b81568123e4.mp4
-初二物理3,ttps://charge.zuoyebang.cc/record_0f49089fb89e48c3e324dec003d24a00.mp4
-初三物理1,https://charge.zuoyebang.cc/record_107990582e64c7ac9d17aea36a27f2f5.mp4
-高二数学2,https://charge.zuoyebang.cc/record_11ed6637cb5917c63b4ae30d8d9ac3d4.mp4
-初三英语2,https://charge.zuoyebang.cc/record_13011ec8eb1cce187643c3aa840755b6.mp4
-小三数学1,https://charge.zuoyebang.cc/record_13313360bbb5d88e61c51c81a944d842.mp4
-高一化学5,https://charge.zuoyebang.cc/record_13d0d52f010bb12e37a320a408284735.mp4
-高一英语3,https://charge.zuoyebang.cc/record_fc30994e46fe2dcd377bb008761ebebb.mp4
-小五英语2,https://charge.zuoyebang.cc/record_fd094abf7b40c8b3e4b2db75b2912667.mp4
-初一语文3,https://charge.zuoyebang.cc/record_13fd94a407009636a5c8331d7921f2b7.mp4
-小一英语3,https://charge.zuoyebang.cc/record_144758455ce97a78f8acdd72093adb03.mp4
-小六英语早读2,https://charge.zuoyebang.cc/record_147eb529897cc2fcc7b5c3ae054d41ff.mp4
-小六英语2,https://charge.zuoyebang.cc/record_6d5e09ff57aa10ca087fd78cd38467d7.mp4
-初三化学6,https://charge.zuoyebang.cc/record_1513469a7ed29f0cc15b3df1648210a4.mp4
-小五数学1,https://charge.zuoyebang.cc/record_158e8f7fef7c8c5bb62c32e298bf539a.mp4
-初一英语3,https://charge.zuoyebang.cc/record_16277ff4aba162226f3a0c7cc611229f.mp4
-小四语文6,https://charge.zuoyebang.cc/record_18e9d94c84206ed6821dcd31baadaa64.mp4
+企鹅辅导一年级,http://live-edu.wasu.tv/live/QiEFuDao-lv1.m3u8
+企鹅辅导二年级,http://live-edu.wasu.tv/live/QiEFuDao-lv2.m3u8
+企鹅辅导三年级,http://live-edu.wasu.tv/live/QiEFuDao-lv3.m3u8
+企鹅辅导四年级,http://live-edu.wasu.tv/live/QiEFuDao-lv4.m3u8
+企鹅辅导五年级,http://live-edu.wasu.tv/live/QiEFuDao-lv5.m3u8
+企鹅辅导六年级,http://live-edu.wasu.tv/live/QiEFuDao-lv6.m3u8
+企鹅辅导初一,http://live-edu.wasu.tv/live/QiEFuDao-lv7.m3u8
+企鹅辅导初二,http://live-edu.wasu.tv/live/QiEFuDao-lv8.m3u8
+企鹅辅导初三,http://live-edu.wasu.tv/live/QiEFuDao-lv9.m3u8
+企鹅辅导高一,http://live-edu.wasu.tv/live/QiEFuDao-lv10.m3u8
 体育频道,#genre#
 New超级体育,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226157/1.m3u8
 土耳其赛马,http://tjktv.ercdn.net/tjktv.m3u8
@@ -130,8 +94,8 @@ D体育,http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 赛车CDOFREE,http://keonline.shanghai.liveplay.qq.com/live/program/live/jsqc/1300000/mnf.m3u8
 精品体育,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226328/1.m3u8
 博斯网球,http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
-广东体育,http://nclive.grtn.cn/typd/sd/live.m3u8
 广州竞赛,http://aplay.gztv.com/sec/jingsai.m3u8
+广东体育,http://nclive.grtn.cn/typd/sd/live.m3u8
 CCTV5体育,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000205103.m3u8#http://39.134.65.162/PLTV/88888888/224/3221225491/index.m3u8
 CCTV5+体育,http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000204503.m3u8#http://104.233.176.70:13164/v/cctv.php?id=2000204503.m3u8
 BTV6纪实,http://by4.nty.tv189.cn/tm-btvjishihd-4000k.m3u8
@@ -143,8 +107,6 @@ BTV6纪实,http://by4.nty.tv189.cn/tm-btvjishihd-4000k.m3u8
 动画电影,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_donghuadianying_1080p_t10/c16_lb_donghuadianying_1080p_t10.m3u8
 喜羊羊与灰太狼,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_xiyangyang_1080p_t10/c15_lb_xiyangyang_1080p_t10.m3u8
 哆啦A梦,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_duolaameng_1080p_t10/c15_lb_duolaameng_1080p_t10.m3u8
-喜羊羊,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_xiyangyang_1080p_t10/c15_lb_xiyangyang_1080p_t10.m3u8
-名侦探柯南,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_mingzhentankenan_1080p_t10/c15_lb_mingzhentankenan_1080p_t10.m3u8
 爱动漫,http://101.71.255.229:6610/zjhs/2/10107/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 靖天卡通,http://61.58.60.230:9319/live/207.m3u8
 CINB动漫,http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_chan_hls_se_idx=032&Provider_id=&Pcontent_id=index.m3u8
@@ -154,23 +116,59 @@ CCTV新科动漫,http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2_hd
 广东少儿,http://nclive.grtn.cn/tvs5/sd/live.m3u8
 福州少儿,http://live1.fzntv.cn/live/zohi_fztv4/playlist.m3u8
 优漫卡通,rtmp://ivi.bupt.edu.cn/livetv/ymkttv#http://by4.nty.tv189.cn/live/tm-jsymktty-800k.m3u8
-CH5 卡通,http://live.streamingfast.net/osmflivech45.m3u8
 南京少儿,http://live.nbs.cn/channels/njtv/sepd/flv:500k/live
 武汉少儿,http://stream.appwuhan.com/7tzb/sd/live.m3u8
 甘肃少儿,http://stream.gstv.com.cn/sepd/sd/live.m3u8
 福州少儿,http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
 山西少儿,http://live2.sxrtv.com/flvss?bitrate=800000&channel=Shan1XiChild
 BTV卡酷少儿,http://by4.nty.tv189.cn/tm-kaku-800k.m3u8#http://ivi.bupt.edu.cn/player.html?channel=btv10#http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221226097/index.m3u8#http://111.40.205.79/PLTV/88888888/224/3221225654/index.m3u8
+FZTV少儿,http://live1.fzntv.cn/live/zohi_fztv4/playlist.m3u8
 新疆少儿,http://by4.nty.tv189.cn/live/tm-xjtv12-800k.m3u8
 云南少儿,http://edge2.yntv.cn/channels/yntv/ynse/flv:sd/live#http://edge1.yntv.cn/channels/yntv/ynse/ts:sd/1585646610000,1585646615000#http://hwzbout.yunshicloud.com/62hdvf/ru416s.m3u8
 浙江少儿,http://yf.m.l.cztv.com/channels/lantian/channel08/360p.m3u8
 天津少儿,http://112.240.60.81/live2.wisetv.com.cn/TJIPTV/TJSE/playlist.m3u8?wsSession=-
 综合影视,#genre#
-NHK华语视界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+成   龙,http://aldirect.rtmp.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1.m3u8
+吴   京,http://aldirect.rtmp.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8
+甄子丹,http://aldirect.rtmp.huya.com/huyalive/29169025-2686219938-11537226783573147648-2847699096-10057-A-1524024759-1.m3u8
+李连杰,http://aldirect.rtmp.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1.m3u8
+周润发,http://aldirect.rtmp.huya.com/huyalive/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1_1200.m3u8
+周星驰,http://aldirect.rtmp.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
+林正英,http://aldirect.rtmp.huya.com/src/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1.m3u8
+刘德华,http://aldirect.rtmp.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1.m3u8
+洪金宝,http://aldirect.rtmp.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1.m3u8
+徐   峥,http://aldirect.rtmp.huya.com/huyalive/30765679-2689675828-11552069718101721088-3048991626-10057-A-0-1_1200.m3u8
+黄   渤,http://aldirect.rtmp.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1.m3u8
+刘   涛,http://aldirect.rtmp.huya.com/src/94525224-2579730250-11079857056251904000-3048959666-10057-A-0-1.m3u8
+王   晶,http://aldirect.rtmp.huya.com/huyalive/1448686695-1448686695-6222061977175326720-2847687574-10057-A-0-1.m3u8
+胡   军,http://aldirect.rtmp.huya.com/huyalive/30765679-2475713428-10633108207528050688-3048991608-10057-A-0-1.m3u8
+唐国强,http://aldirect.rtmp.huya.com/huyalive/29359996-2689277426-11550358594541060096-2847699098-10057-A-0-1.m3u8
+陈道明,http://aldirect.rtmp.huya.com/huyalive/29141112-2691519968-11559990239090966528-3049003118-10057-A-0-1.m3u8
+苏有朋,http://aldirect.rtmp.huya.com/huyalive/30765679-2523417175-10837994240789708800-2789253884-10057-A-0-1_1200.m3u8
+张卫健,http://aldirect.rtmp.huya.com/huyalive/30765679-2550665260-10955023874743336960-2789253862-10057-A-0-1.m3u8
+陈小春,http://aldirect.rtmp.huya.com/huyalive/94525224-2701055008-11600942924057018368-2847687618-10057-A-0-1_1200.m3u8
+黄百鸣,http://aldirect.rtmp.huya.com/huyalive/1448686638-1448686638-6222061732362190848-2789253842-10057-A-0-1.m3u8
+古天乐,http://aldirect.rtmp.huya.com/huyalive/29359996-2689607114-11551774593718943744-2847687530-10057-A-1525492553-1.m3u8
+郑伊健,http://aldirect.rtmp.huya.com/huyalive/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1.m3u8
+陈浩民,http://aldirect.rtmp.huya.com/huyalive/30765679-2523427569-10838038882679783424-2789253886-10057-A-0-1.m3u8
+李云龙,http://aldirect.rtmp.huya.com/huyalive/30765679-2475713500-10633108516765696000-2789274576-10057-A-0-1.m3u8
+易中天,http://aldirect.rtmp.huya.com/backsrc/28466698-2689661800-11552009468300492800-3048991590-10057-A-0-1.m3u8
+岳云鹏,http://aldirect.rtmp.huya.com/huyalive/29106097-2689444502-11551076180497006592-2789253868-10057-A-1525419311-1.m3u8
 周末影院,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_fengxiaogang_1080p_t10/c16_lb_fengxiaogang_1080p_t10.m3u8
+经典频道,http://stream.guihet.com/migu/index.php?id=625542369
 动作电影,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_dongzuodianying_1080p_t10/c16_lb_dongzuodianying_1080p_t10.m3u8
 CIBN电影,http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_chan_hls_se_idx=033&Provider_id=&Pcontent_id=index.m3u8
 CHC电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
+CHC家庭影院,rtmp://ivi.bupt.edu.cn:1935/livetv/chctv
+峨眉电影蓝光,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
+欢笑剧场蓝光,http://112.50.243.8/PLTV/88888888/224/3221226729/1.m3u8
+北京纪实蓝光,http://112.50.243.8/PLTV/88888888/224/3221225944/1.m3u8
+纪实频道蓝光,http://112.50.243.8/PLTV/88888888/224/3221225946/1.m3u8
+极速汽车蓝光,http://112.50.243.8/PLTV/88888888/224/3221226140/1.m3u8
+动漫秀场蓝光,http://112.50.243.8/PLTV/88888888/224/3221226141/1.m3u8
+黑莓动画蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225914/1.m3u8
+黑莓电竞蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225931/1.m3u8
+黑莓电影蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225927/1.m3u8
 电影Ⅰ周星驰经典轮播,http://3954.liveplay.myqcloud.com/live/3954_382995145.xs
 电影Ⅰ经典 科幻 动作 灾难 巨兽,http://tx2play1.douyucdn.cn/live/252802rbQGaZXUQi.xs
 电影Ⅰ【周星驰】星爷 华语 经典 电影 神乐,http://tx2play1.douyucdn.cn/live/122402rK7MO9bXSq.xs
@@ -185,20 +183,46 @@ CHC电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
 动漫Ⅰ【动漫】热血 木叶忍者 草帽路飞 青春,http://tx2play1.douyucdn.cn/live/206858rtestxjl.xs
 动漫Ⅰ奥特曼合集,http://3954.liveplay.myqcloud.com/live/3954_10848286.xs
 动漫Ⅰ【爱迪】宇宙英雄奥特曼,http://3954.liveplay.myqcloud.com/live/3954_161415327.xs
+韩流Ⅰ清晨醒脑！T-ARA根本停不下来！,http://tx2play1.douyucdn.cn/live/17732rtara.flv
+韩流Ⅰ全网唯一女团专属频道最全.最新8K视频,http://3954.liveplay.myqcloud.com/live/3954_40734637.xs
+爱电竞,http://101.71.255.229:6610/zjhs/2/10110/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱动漫,http://101.71.255.229:6610/zjhs/2/10107/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱都市,http://101.71.255.229:6610/zjhs/2/10111/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱江湖,http://101.71.255.229:6610/zjhs/2/10114/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱解密,http://101.71.255.229:6610/zjhs/2/10109/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱经典,http://101.71.255.229:6610/zjhs/2/10106/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱军武,http://101.71.255.229:6610/zjhs/2/10119/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱科幻,http://101.71.255.229:6610/zjhs/2/10113/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱历史,http://101.71.255.229:6610/zjhs/2/10120/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱美食,http://101.71.255.229:6610/zjhs/2/10108/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱奇谈,http://101.71.255.229:6610/zjhs/2/10103/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱时尚,http://101.71.255.229:6610/zjhs/2/10118/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱世界,http://101.71.255.229:6610/zjhs/2/10121/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱玩具,http://101.71.255.229:6610/zjhs/2/10117/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱喜剧,http://101.71.255.229:6610/zjhs/2/10105/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱悬疑,http://101.71.255.229:6610/zjhs/2/10104/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱幼教,http://101.71.255.229:6610/zjhs/2/10112/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱院线,http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱青春,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230130/index.m3u8
+爱家庭,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230118/index.m3u8
+爱探索,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230112/index.m3u8
+爱科学,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230106/index.m3u8
+爱猎奇,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230097/index.m3u8
+爱谍战,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230092/index.m3u8
+爱娱乐,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230077/index.m3u8
+爱旅行,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230052/index.m3u8
+爱怀旧,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230049/index.m3u8
+爱体育,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230034/index.m3u8
+爱赛车,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230032/index.m3u8
+爱浪漫,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230005/index.m3u8?fmt=ts2hls
 恐怖影院,#genre#
 恐怖 惊悚 动作 科幻 喜剧,http://3954.liveplay.myqcloud.com/live/3954_504525571.xs
 僵尸鬼片动作搞笑武侠,http://3954.liveplay.myqcloud.com/live/3954_157023183.xs
-【MZ】林正英鬼片,https://flv-qqplay.inter.71edge.com/liveugc/rqy_u2a2xsn4.flv
 【英叔护体】全天 僵尸 鬼片 恐怖电影,http://3954.liveplay.myqcloud.com/live/3954_363783415.xs
-【林正英】僵尸 女鬼 弹幕 护体,http://tx2play1.douyucdn.cn/live/218859rLZx61rcDy.xs
-【恐怖】丧尸 鬼片 灾难,http://tx2play1.douyucdn.cn/live/263824ryQeKiO750.xs
-【禁忌】恐怖、丧尸、惊悚,http://tx2play1.douyucdn.cn/live/5129261rbbZJZeoK.xs
-恐怖、动作影院,http://tx2play1.douyucdn.cn/live/8330816rPMhXvhsR.xs
-丧尸 鬼片 恐怖 惊悚 电影,http://tx2play1.douyucdn.cn/live/96577r4UI472mJKX.xs
-恐怖影院 请关灯后食用！,http://tx2play1.douyucdn.cn/live/5872811rt9j2RfKQ.xs
-童年阴影 女鬼 僵尸 恐怖 英叔,http://tx2play1.douyucdn.cn/live/2935323rXkfdGxOz.xs
-相声小品,#genre#
+休闲娱乐,#genre#
+动物世界,http://hls-ott-zhibo.wasu.tv/live/394/index.m3u8
 历史秘闻,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_lishimiwen_1080p_t10/c15_lb_lishimiwen_1080p_t10.m3u8
+小品轮播,http://aldirect.rtmp.huya.com/huyalive/29106097-2689281338-11550375396453122048-2777038134-10057-A-0-1.m3u8
 喜剧大咖,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_xijudaka_1080p_t10/c15_lb_xijudaka_1080p_t10.m3u8
 德云社 郭德纲 相声专场 陪你看,http://3954.liveplay.myqcloud.com/live/3954_468780224.xs
 相声小品,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_xiangshengxiaopin_1080p_t10/c15_lb_xiangshengxiaopin_1080p_t10.m3u8
@@ -220,6 +244,3 @@ CHC电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
 户外Ⅰ帝师,http://3954.liveplay.myqcloud.com/live/3954_526644026.xs
 恐怖Ⅰ周杰伦FANS,http://tx2play1.douyucdn.cn/live/14317r1f7rx51rlN.xs
 恐怖Ⅰ狂鸟丶愿凡,http://aldirect.hls.huya.com/backsrc/33900931-33900931-145603389948952576-161483998-10057-A-0-1.m3u8
-福利频道,#genre#
-韩流Ⅰ清晨醒脑！T-ARA根本停不下来！,http://tx2play1.douyucdn.cn/live/17732rtara.flv
-韩流Ⅰ全网唯一女团专属频道最全.最新8K视频,http://3954.liveplay.myqcloud.com/live/3954_40734637.xs
