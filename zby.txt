@@ -22,6 +22,20 @@
 陕西卫视高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225896/1.m3u8
 东南卫视,https://cctvtxyh5ca.liveplay.myqcloud.com/wstv/dongnan_2/index.m3u8
 广州影视,http://aplay.gztv.com/sec/yingshi.m3u8
+央视频道,#genre#
+CCTV1综合高清,http://live-temp-litchi-hls-yf.jstv.com/live/zhibo-cctv1gq/online.m3u8
+CCTV3综艺,http://ivi.bupt.edu.cn/hls/cctv3.m3u8
+CCTV4国际亚洲,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv4_2/index.m3u8#http://ivi.bupt.edu.cn/hls/cctv4.m3u8
+CCTV4国际欧洲,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctveurope_2/index.m3u8
+CCTV4国际美洲,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctvamerica_2/index.m3u8
+CCTV7国防军事,http://ivi.bupt.edu.cn/hls/cctv7.m3u8
+CCTV9记录,http://ivi.bupt.edu.cn/hls/cctv9.m3u8
+CCTV6电影高清,http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8#https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv6_2/index.m3u8#http://cctvalih5ca.v.myalicdn.com/live/cctv6_2/index.m3u8
+CCTV8电视剧,https://cctvcnch5ca.v.wscdns.com/live/cctv8_2/index.m3u8#https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv8_2/index.m3u8
+CCTV10科教,https://cctvalih5ca.v.myalicdn.com/live/cctv10_2/index.m3u8#https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv10_2/index.m3u8
+CCTV13新闻,http://live.xcyun.net/video/s10001-XCTVSH/index.m3u8#https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv13_2/index.m3u8
+CCTV14少儿,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctvchild_2/index.m3u8#https://cctvalih5ca.v.myalicdn.com/live/cctvchild_2/index.m3u8
+CCTV15音乐,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv15_2/index.m3u8
 港澳台,#genre#
 香港hks,http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xianggangweishi_2_hd.m3u8
 澳门互动新闻台,http://202.175.127.77/live/show/ch2/index.m3u8
@@ -48,20 +62,6 @@
 大愛二臺HD,http://tv2.wanfudaluye.com/live/live.m3u8
 靖天戲劇台,http://61.58.60.230:9319/live/203.m3u8
 靖天日本台,http://61.58.60.230:9319/live/243.m3u8
-央视频道,#genre#
-CCTV1综合高清,http://live-temp-litchi-hls-yf.jstv.com/live/zhibo-cctv1gq/online.m3u8
-CCTV3综艺,http://ivi.bupt.edu.cn/hls/cctv3.m3u8
-CCTV4国际亚洲,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv4_2/index.m3u8#http://ivi.bupt.edu.cn/hls/cctv4.m3u8
-CCTV4国际欧洲,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctveurope_2/index.m3u8
-CCTV4国际美洲,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctvamerica_2/index.m3u8
-CCTV7国防军事,http://ivi.bupt.edu.cn/hls/cctv7.m3u8
-CCTV9记录,http://ivi.bupt.edu.cn/hls/cctv9.m3u8
-CCTV6电影高清,http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8#https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv6_2/index.m3u8#http://cctvalih5ca.v.myalicdn.com/live/cctv6_2/index.m3u8
-CCTV8电视剧,https://cctvcnch5ca.v.wscdns.com/live/cctv8_2/index.m3u8#https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv8_2/index.m3u8
-CCTV10科教,https://cctvalih5ca.v.myalicdn.com/live/cctv10_2/index.m3u8#https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv10_2/index.m3u8
-CCTV13新闻,http://live.xcyun.net/video/s10001-XCTVSH/index.m3u8#https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv13_2/index.m3u8
-CCTV14少儿,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctvchild_2/index.m3u8#https://cctvalih5ca.v.myalicdn.com/live/cctvchild_2/index.m3u8
-CCTV15音乐,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv15_2/index.m3u8
 网课测试,#genre#
 企鹅辅导一年级,http://live-edu.wasu.tv/live/QiEFuDao-lv1.m3u8
 企鹅辅导二年级,http://live-edu.wasu.tv/live/QiEFuDao-lv2.m3u8
@@ -196,6 +196,7 @@ CHC家庭影院,rtmp://ivi.bupt.edu.cn:1935/livetv/chctv
 【贝爷影厅】经典 科幻 动作 灾难 巨兽,http://tx2play1.douyucdn.cn/live/252802rbQGaZXUQi.xs
 电影可乐 欧美 电影 科幻 经典 动作,http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K.xs
 电影【小鸽陪看】动作 枪战 华语 经典,http://tx2play1.douyucdn.cn/live/3928r9p0BHMDG.xs
+恐怖 经典 动作 搞笑 剧情 24h,http://tx2play1.douyucdn.cn/live/8561406rXOoP4ZKY.xs
 小品轮播,http://aldirect.rtmp.huya.com/huyalive/29106097-2689281338-11550375396453122048-2777038134-10057-A-0-1.m3u8
 【动漫】热血 木叶忍者 草帽路飞 青春,http://tx2play1.douyucdn.cn/live/206858rtestxjl.xs
 明星系列,#genre#
