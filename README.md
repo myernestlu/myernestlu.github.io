@@ -1,11 +1,12 @@
 播放器下载PC＆安卓:https://ernest.lanzous.com/b08fa1zlg密码：8aje
 
-电视直播源:https://myernestlu.github.io/zby.txt
+电视直播源:https://myernestlu.github.io/zby.txt（暂时不更新了抱歉）
 
-电台直播源:https://myernestlu.github.io/dty.txt
+电台直播源:https://myernestlu.github.io/dty.txt（暂时不更新了抱歉）
 
-虽然吾爱的帖子因为港澳台的原因删除了,但是我还是会继续更新的,谢谢大家支持。
+我自己搭建的电视直播app,不用输入直播源地址直接用 我会在后台更新的
 
+【天王星直播】无广告 支持手机和电视盒子,蓝奏云https://ernest.lanzous.com/ibpkbxa 密码:52pj
 ------------------------------------------------------------
 打赏&捐赠 激励博主持续维护节目源,一毛也是爱咳咳咳...
 
