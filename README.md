@@ -12,11 +12,10 @@
 
 微信&支付宝
 
-------------------------------------------------------------
+-------------------------------------------------------------------------
 <a href="https://img.wenhairu.com/image/FBePG"><img src="https://cdn.img.wenhairu.com/images/2020/04/02/FBePG.th.png" alt="FBePG.th.png" border="0"></a> <a href="https://img.wenhairu.com/image/FBBtv"><img src="https://cdn.img.wenhairu.com/images/2020/04/02/FBBtv.th.png" alt="FBBtv.th.png" border="0"></a>
 
 
-<iframe src="//player.bilibili.com/player.html?aid=667616938&bvid=BV1ra4y1t7gN&cid=173266337&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 --------------------------------------------------------------------------
 
