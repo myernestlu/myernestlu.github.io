@@ -1,8 +1,8 @@
 播放器下载PC＆安卓:https://ernest.lanzous.com/b08fa1zlg密码：8aje
 
-电视直播源:https://myernestlu.github.io/zby.txt（暂时不更新了抱歉）
+电视直播源:https://myernestlu.github.io/zby.txt
 
-电台直播源:https://myernestlu.github.io/dty.txt（暂时不更新了抱歉）
+电台直播源:https://myernestlu.github.io/dty.txt
 
 我自己搭建的电视直播app,不用输入直播源地址直接用 我会在后台更新的
 
