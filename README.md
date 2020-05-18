@@ -4,9 +4,7 @@
 
 电台直播源:https://myernestlu.github.io/dty.txt
 
-我自己搭建的电视直播app,不用输入直播源地址直接用 我会在后台更新的
-
-【天王星直播】无广告 支持手机和电视盒子,蓝奏云：https://ernest.lanzous.com/b08fd66ji 密码:f19p
+我的博客【云上分享】地址:yunshang.fun
 
 打赏&捐赠 激励博主持续维护节目源,一毛也是爱咳咳咳...
 
